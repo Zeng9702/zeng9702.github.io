@@ -1,8 +1,8 @@
 # URL #
 
--   [Markdown语法](http://www.markdown.cn/)
+-   [Markdown Syntax](http://www.markdown.cn/)
 
--   [Markdown在线编辑器](http://dillinger.io/)
+-   [Markdown Online Editor](http://dillinger.io/)
 
 # Application Download #
 
