@@ -4,3 +4,5 @@
 -   [Shadowsocks](http://shadowsocks.org/en/download/clients.html)
 
 -   [SSR for Android](https://github.com/shadowsocksr/shadowsocksr-android/releases)
+
+-   [SSR for Windows](https://github.com/shadowsocksr/shadowsocksr-csharp/releases)
