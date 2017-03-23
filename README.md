@@ -1,6 +1,6 @@
 # URL #
 
--[Markdown语法](http://www.markdown.cn/)
+-   [Markdown语法](http://www.markdown.cn/)
 
 # Application Download #
 
