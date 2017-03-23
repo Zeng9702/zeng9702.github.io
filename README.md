@@ -26,7 +26,7 @@
 
 -   [SSR for Windows](https://github.com/shadowsocksr/shadowsocksr-csharp/releases)
 
--   [Notepad++](https://notepad-plus-plus.org/) - a free source code editor
+-   [Notepad++](https://notepad-plus-plus.org/)
 
 -   [NppExec](https://sourceforge.net/projects/npp-plugins/files/)
 
