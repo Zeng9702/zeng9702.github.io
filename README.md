@@ -17,3 +17,5 @@
 ## Windows ##
 
 -   [SSR for Windows](https://github.com/shadowsocksr/shadowsocksr-csharp/releases)
+
+-   [Dev-C++](http://orwelldevcpp.blogspot.jp/)
