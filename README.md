@@ -1,4 +1,7 @@
-# Download #
+# Application Download #
+
+## Android ##
+
 -   [GD Translator](https://fir.im/gdTranslater)
 
 -   [SSR for Android](https://github.com/shadowsocksr/shadowsocksr-android/releases)
@@ -10,5 +13,7 @@
 -   [SmartNews](https://play.google.com/store/apps/details?id=jp.gocro.smartnews.android)
 
 -   [Shadowsocks](http://shadowsocks.org/en/download/clients.html)
+
+## Windows ##
 
 -   [SSR for Windows](https://github.com/shadowsocksr/shadowsocksr-csharp/releases)
