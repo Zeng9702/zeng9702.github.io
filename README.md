@@ -18,4 +18,8 @@
 
 -   [SSR for Windows](https://github.com/shadowsocksr/shadowsocksr-csharp/releases)
 
+-   [Notepad++](https://notepad-plus-plus.org/)
+
+-   [NppExec](https://sourceforge.net/projects/npp-plugins/files/)
+
 -   [Dev-C++](http://orwelldevcpp.blogspot.jp/)
