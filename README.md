@@ -4,8 +4,6 @@
 
 -   [Markdown Online Editor](http://dillinger.io/)
 
-*   [Markdown Online Editor](http://dillinger.io/)
-
 # Application Download #
 
 ## Android ##
