@@ -19,8 +19,7 @@
 **联想 340C** 
 
 ![img](https://pic1.zhimg.com/v2-cd7bde619f8e5855f1b5d665a953f7e8_b.jpeg)
-
-裸重：1.85kg，厚度：19.90mm
+<center>裸重：1.85kg，厚度：19.90mm</center>
 
 - 配置：i3-8145U、8G内存、256G SSD
 - 屏幕：15.6英寸1080P、45%NTSC低色域
