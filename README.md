@@ -12,13 +12,6 @@
 > 小提示：大促期间，货源有限，价格合适就尽快下单锁定，别错过了噢！
 
 
-**省钱小技巧👇**
-
-目前是双11预热期，各大电商平台正在发放「全平台通用HB」 ，淘宝的叫超级HB，京东的叫京享HB。
-
-> 本质：现金HB。**无门槛**，**无套路**，**可叠加**，**全平台通用**，下单直接抵现金，不容错过。
-
-
 ## **👉轻薄本推荐**
 
 **4000元以下**
@@ -833,7 +826,6 @@
 - 天猫旗舰：[戳我加购](https://s.click.taobao.com/t?e=m%3D2%26s%3D4liNV5ORi%2BocQipKwQzePOeEDrYVVa64K7Vc7tFgwiHjf2vlNIV67q%2F0XfKi9tIgmSMhGfkQJ77HBJrNyWy%2FUhtakJZDCFtXh7luXVktjzk0fMUMsi93u30PvODyjmBsbNt%2BQ9Mb0tem2vAytx9kdNRUCUvi1akrws2nzltKVWv9Umq014SDkwvzM5HMQuXQuhb34EioRUgrs3X9oevdO3EqY%2Bakgpmw&scm=null&pvid=null&app_pvid=59590_11.26.37.192_512_1571654393529&ptl=floorId:17741;originalFloorId:17741;app_pvid:59590_11.26.37.192_512_1571654393529&union_lens=lensId%3AOPT%401571654387%400b1aef25_0e66_16dede6c548_72a6%4001)
 
 
-
 **翻转本**
 
 **惠普 Envy X360 13-ag0007AU**
@@ -884,8 +876,5 @@
 - 京东自营：[戳我加购](https://union-click.jd.com/jdc?e=&p=AyIGZRprFQMTBlQdXB0AEQ9cKx9KWkxYZUIeUENQDEsFA1BWThgJBABAHUBZCQUdRUFGGRJDD1MdQlUQQwVKDFRXFk8jQA4SBlQaWhMFGgVWE1IlWlZkVF4%2BbVZyBh0FMkd%2FCAI8ZAd0Yh4LZRNbEAAVN1YaWxQLEg5UGVglMhIEZU01FQMTBlQaWhUGFDdVElMXChoFVhxZJQIWAVQbXxELFg9VE1klBRIOZUAOewcbAFAbWhdXGgRdEg8lMhIGVBpaEwUaBVYTUiUBIjdlG2sWMlBpUhhbRQIWBFNJCRxQFwcAHAhCVxIOXRtYElcQAAceCBMyEAZUH1I%3D)
 - 天猫旗舰：[戳我加购](https://s.click.taobao.com/t?e=m%3D2%26s%3D6Y6kSdQeT68cQipKwQzePOeEDrYVVa64K7Vc7tFgwiHjf2vlNIV67vQ875HMg2K%2BIfNVgZHErC7HBJrNyWy%2FUhtakJZDCFtXh7luXVktjzk0fMUMsi93u30PvODyjmBsbNt%2BQ9Mb0tem2vAytx9kdDVH79XYwd4F0a3u46RXbteREjEiL0p2TupL9cJfNfu110hBUu2ziadBlGzF09nrNMYl7w3%2FA2kb&scm=null&pvid=null&app_pvid=59590_11.21.12.113_464_1571630561508&ptl=floorId:17741;originalFloorId:17741;app_pvid:59590_11.21.12.113_464_1571630561508&union_lens=lensId%3AOPT%401571630556%400b588c59_0e96_16dec7b24c7_79f6%4001)
 
-------
 
-以上就是大学生笔记本电脑推荐清单的全部内容，谢谢你的耐心阅读。本清单后期会持续更新，点“**收藏**”，下次你想看的时候就可以马上找到啦！
-
- 👇点“**赞同**”鼓励一下呗~
+以上就是大学生笔记本电脑推荐清单的全部内容，谢谢你的耐心阅读。
