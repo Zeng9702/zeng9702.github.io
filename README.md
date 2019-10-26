@@ -1,35 +1,940 @@
-# URL #
+本文已更新到**2019年10月最新版**，点击下方链接跳转👇
 
--   [Kindle](http://t.bookdna.cn/)
+小哇：大学生笔记本电脑推荐清单（轻薄本/游戏本/全能本/触控本，2019年10月最新版）zhuanlan.zhihu.com![图标](https://pic4.zhimg.com/v2-bbd1dfbb5f5ba6e9e3c79c70f49a453b_180x120.jpg)
 
--   [Markdown Syntax](http://www.markdown.cn/)
+------
 
--   [Markdown Online Editor](http://dillinger.io/)
+本清单后期会持续更新，点“**收藏**”，下次你想看的时候就可以立马找到啦！
 
-# Application Download #
+亲~ 你的支持是小哇持续更新的源动力，顺便点个“**赞同”**呗~
 
-## Android ##
+------
 
--   [GD Translator](https://fir.im/gdTranslater)
+在对比选购之前，强烈建议先浏览一下这份选购指南👇，了解了笔记本电脑基础知识和选购技巧后，选购起来会更加得心应手。
 
--   [SSR for Android](https://github.com/shadowsocksr/shadowsocksr-android/releases)
+小哇：大学生笔记本电脑选购指南（2019年10月最新版，附轻薄本/游戏本/全能本/触控本推荐清单）zhuanlan.zhihu.com![图标](https://pic2.zhimg.com/v2-e3e74785341ec38786f1c822401703c5_180x120.jpg)
 
--   [Night Screen](https://github.com/fython/Blackbulb)
+------
 
--   [EBDic](https://play.google.com/store/apps/details?id=com.twn.ebdic)
+## **👉入手渠道**
 
--   [SmartNews](https://play.google.com/store/apps/details?id=jp.gocro.smartnews.android)
+首选**京东自营**、**天猫官方旗舰店**，质量和售后都相对有保障。小白请主动**远离线下实体店**、**电脑城**、“**师兄店”等风险渠道**，水极深！
 
--   [Open GApps](http://opengapps.org/)
+下边机型推荐时会给出每一部机器的“**一键加购按钮**”，准备在 **京东自营/天猫旗舰** 入手的同学，点击即可进入商品页，不要**变更套餐**，不需要勾选“**延保服务**”，直接加购即可。
 
--   [Shadowsocks](http://shadowsocks.org/en/download/clients.html)
+> 省钱小技巧：学生在京东完成身份认证后，购物可以享受专属特价，详情可以参考这篇文章👇，这里就不再赘述啦！
 
-## Windows ##
+小哇：不看后悔4年！大学生有哪些不可错过的专属优惠？（精选版）zhuanlan.zhihu.com![图标](https://pic4.zhimg.com/v2-325187eae43e5ddefbf96b5b114c863b_180x120.jpg)
 
--   [SSR for Windows](https://github.com/shadowsocksr/shadowsocksr-csharp/releases)
 
--   [Notepad++](https://notepad-plus-plus.org/)
 
--   [NppExec](https://sourceforge.net/projects/npp-plugins/files/)
+------
 
--   [Dev-C++](http://orwelldevcpp.blogspot.jp/)
+## **👉入手价位与时机**
+
+一年一度的“双11购物节”来了，双11是以 「**好价**」 入手笔记本电脑的绝佳机会，同学们务必要提前选好几款中意的机型，加入购物车后多关注价格，说不定就能遇到「**历史低价**」！
+
+> 小提示：大促期间，货源有限，价格合适就尽快下单锁定，别错过了噢！
+
+
+
+**省钱小技巧👇**
+
+目前是双11预热期，各大电商平台正在发放「全平台通用HB」 ，淘宝的叫超级HB，京东的叫京享HB。
+
+> 本质：现金HB。**无门槛**，**无套路**，**可叠加**，**全平台通用**，下单直接抵现金，不容错过。
+
+
+
+**淘宝双11超级HB**
+
+![img](https://pic3.zhimg.com/v2-a2e22063ff194098712788c1e28efe6a_b.png)
+
+- 发放时间：10.21-11.12，每天0点发放，一天可领三次
+- 省钱技巧：收藏此文，定好闹钟，蹲点领取，根据往年经验，22天领满，至少有100元
+- 领取方式：猛戳直达活动页面 ↓
+
+淘宝双11超级HBs.click.taobao.com
+
+
+
+**京东双11京享HB**
+
+- 发放时间：10.30-11.11，每天0点发放
+- 领取方式：尚未开始发放，收藏此文，开放后将会第一时间更新。
+
+------
+
+## 👉轻薄本推荐
+
+**4000元以下**
+
+**联想 340C** 
+
+![img](https://pic1.zhimg.com/v2-cd7bde619f8e5855f1b5d665a953f7e8_b.jpeg)
+
+裸重：1.85kg，厚度：19.90mm
+
+- 配置：i3-8145U、8G内存、256G SSD
+- 屏幕：15.6英寸1080P、45%NTSC低色域
+- 参考价格：2999元-3499元  
+- 京东自营：[戳我加购](https://union-click.jd.com/jdc?e=&p=AyIGZRprFQMTBlQZXxQCFQdTKx9KWkxYZUIeUENQDEsFA1BWThgJBABAHUBZCQUdRUFGGRJDD1MdQlUQQwVKDFRXFk8jQA4SBlQaWhcGEwdSG10lZ2VuFmEIQQp3QhFgGX1cc08sHzMdRB4LZRprFgMSBlwbUhQAETdlG1wlVHwHVBpaFAMTB1EdaxQyEgNSEl8WBRAAVhJYHDIVB1wrAEBsFw5SHlsUAEcPVhNSQTIiN1YrayUCIgRlWTVGAkFVXR1ZEAAQBgUeWEAEGgJQH1tHBhIEU0xcHQRHBmUZWhQGGw%3D%3D)
+- 天猫旗舰：[戳我加购](https://s.click.taobao.com/t?e=m%3D2%26s%3Dy%2BtEA%2FOf0EIcQipKwQzePOeEDrYVVa64K7Vc7tFgwiHjf2vlNIV67pFaaPXA%2BC3sFfrEfJ4hp2rHBJrNyWy%2FUhtakJZDCFtXh7luXVktjzk0fMUMsi93u30PvODyjmBsbNt%2BQ9Mb0tem2vAytx9kdDVH79XYwd4F0a3u46RXbteREjEiL0p2TupL9cJfNfu1O27WcyHzx0Bt6bHG1SGdwsYl7w3%2FA2kb&scm=null&pvid=null&app_pvid=59590_11.20.235.152_464_1571628277603&ptl=floorId:17741;originalFloorId:17741;app_pvid:59590_11.20.235.152_464_1571628277603&union_lens=lensId%3AOPT%401571628264%400b1a25d7_0efe_16dec582e18_2d14%4001)
+
+**4000元-5000元**
+
+**荣耀 MagicBook 2019 第三方Linux版**
+
+![img](https://pic2.zhimg.com/v2-c1a0362d31959545e8d9b3c6b4767b1d_b.jpeg)
+
+裸重：1.45kg，厚度：15.80mm
+
+- 配置：R5-3500U、8G内存、512G SSD
+- 屏幕：14英寸1080P、45%NTSC低色域
+- 优点：指纹识别、背光键盘、不错的续航
+- 缺点：低色域屏幕、内存无法扩展、Linux系统（可重装为Win系统）
+- 参考价格：3999元-4299元  
+- 京东自营：[戳我加购](https://union-click.jd.com/jdc?e=&p=AyIGZRprFQMTBlQeUhMDGgRXKx9KWkxYZUIeUENQDEsFA1BWThgJBABAHUBZCQUdRUFGGRJDD1MdQlUQQwVKDFRXFk8jQA4SBlQaWhALFAZdGFklVGtyFBIfc2t3Bi9oAxFbdWE2YSJgch4LZRNbEAAVN1YaWxQLEg5UGVglMhIEZU01FQMTBlQaWh0DFzdVElMXChoFVhxZJQIWAVQfWhECFQFcHVklBRIOZUAOewcbAFAbWhdXGgRdEg8lMhIGVBpaEAsUBl0YWSUBIjdlG2sWMlBpAhoMQQcTBQYaXh1QFwQFGQhHC0YDU05TFwNBAFASWkIyEAZUH1I%3D)
+- 天猫旗舰：[戳我加购](https://s.click.taobao.com/t?e=m%3D2%26s%3D4UTeSGdKrgEcQipKwQzePOeEDrYVVa64K7Vc7tFgwiHjf2vlNIV67lufWjwJ2Vnxz%2BnB8CFd%2BwLHBJrNyWy%2FUhtakJZDCFtXh7luXVktjzk0fMUMsi93u30PvODyjmBsbNt%2BQ9Mb0tem2vAytx9kdMRc6wYkxc2rdCNGxudn8bf9Umq014SDk46%2BSOeTfXnPZFkye%2FGJhAMSE2A%2BkJFdk8YOae24fhW0&scm=null&pvid=null&app_pvid=59590_11.88.42.103_578_1571713332976&ptl=floorId:17741;originalFloorId:17741;app_pvid:59590_11.88.42.103_578_1571713332976&union_lens=lensId%3AOPT%401571713285%400b1af6c1_0e44_16df1697ed8_6bb9%4001)
+
+**惠普 战66 AMD升级版**
+
+![img](https://pic4.zhimg.com/v2-5e547dfb5c8efb2093a7bfc474197c53_b.png)
+
+裸重：2.00kg，厚度：18.95mm
+
+- 配置：R5-3500U、8G内存、512G SSD
+- 屏幕：15.6英寸1080P、100%sRGB高色域
+- 优点：性价比高、高色域屏幕、接口丰富、双内存双硬盘插槽，扩展性好、带数字小键盘
+- 缺点：屏幕的上下黑边较大、方向键不友好
+- 参考价格：3999元-4299元 [戳我加购](https://union-click.jd.com/jdc?e=&p=AyIGZRtbEAMVA1ASUxAyEgZUGloXChcPVxtbJUZNXwtEa0xHV0YXEEULWldTCQQHCllHGAdFBwtEQkQBBRxNVlQYBUkeTVxNCRNLGEF6RwtVGloUAxAPUBNZFQIiRxJ8J01wTF4wYg8VfxsCHEE5VAQbZ1kXaxQyEQZVGlIVCxMFVitrFQUiUTsbWhQDEwZUG18RMhM3VR9cHAYRAFAZWhMAEzdSG1IlWUdpUBJcEAITBQATWB0LRjdlK1glMiIHZRhrV2wRUwUZDhAAEA5cSAsQAkAFBhhfQAcRVFUSWBEEFgNWHWsXAxMDXA%3D%3D)
+
+**联想 小新Air14 锐龙版**
+
+![img](https://pic4.zhimg.com/v2-4c3636f10c52de493604768971de0203_b.png)
+
+裸重：1.50kg，厚度：15.90mm
+
+- 配置：R5-3500U、12G内存、512G SSD
+- 屏幕：14英寸1080P、45%NTSC低色域
+- 优点：做工不错、散热不错、内存和硬盘皆可扩展
+- 缺点：低色域屏幕、内存为板载4G+8G的迷惑设计、方向键不友好
+- 参考价格：3999元-4299元  
+- 京东自营：[戳我加购](https://item.jd.com/100004286189.html)
+- 天猫旗舰：[戳我加购](https://s.click.taobao.com/t?e=m%3D2%26s%3DndGi1il%2BHcMcQipKwQzePOeEDrYVVa64K7Vc7tFgwiHjf2vlNIV67p6O5TdskbpnkJM98MoZX0jHBJrNyWy%2FUhtakJZDCFtXh7luXVktjzk0fMUMsi93u30PvODyjmBsbNt%2BQ9Mb0tem2vAytx9kdDVH79XYwd4F0a3u46RXbteREjEiL0p2TupL9cJfNfu1otdHiyKtqOyn5OyqmpUFr8Yl7w3%2FA2kb&scm=null&pvid=null&app_pvid=59590_11.26.37.165_540_1571628555038&ptl=floorId:17741;originalFloorId:17741;app_pvid:59590_11.26.37.165_540_1571628555038&union_lens=lensId%3AOPT%401571628476%400b017f49_0e40_16dec5b66b0_14bb%4001)
+
+**华为 MateBook 13** 
+
+![img](https://pic1.zhimg.com/v2-96469426af15f41376b2600c6bc0af58_b.jpeg)
+
+裸重：1.28kg，厚度：14.90mm
+
+- 配置：i3-8145U、8G内存、256G SSD
+- 屏幕：13英寸2K、100%sRGB高色域
+- 优点：高色域2K屏、三边窄边框
+- 缺点：接口少，可能需要另购扩展坞
+- 参考价格：4999元  [戳我加购](https://union-click.jd.com/jdc?e=&p=AyIGZRprFQMTBlQeUhUKFAZWKx9KWkxYZUIeUENQDEsFA1BWThgJBABAHUBZCQUdRUFGGRJDD1MdQlUQQwVKDFRXFk8jQA4SBlQaWhALEg9TGlglB1F4AxgnQwVwZVJsIk11QmZLaSN2ch4LZRprFgMSBlwbUhQAETdlG1wlVHwHVBpaFAMXBFETaxQyEgNSEl8WBRcPVR9aHDIVB1wrAEBsFw5SHlsUAEcPVhNSQTIiN1YrayUCIgRlWTUdVhEGBkwIEApHBQYeXEVRQgFUHl8dUhYOURhdEFJBAmUZWhQGGw%3D%3D)
+
+**5000元-6000元**
+
+**联想 ThinkPad X395**
+
+![img](https://pic3.zhimg.com/v2-466c1b5c58a39d7d91c0e582a5643c22_b.jpeg)
+
+裸重：1.30kg，厚度：16.90mm
+
+- 配置：R7 Pro 3700U、8G内存、512G SSD
+- 屏幕：13.3英寸1080P、100%sRGB高色域
+- 优点：高色域屏幕、接口丰富、续航不错且支持快充、指纹识别
+- 缺点：内存无法扩展、硬盘无法加装只能替换（无额外插槽）
+- 参考价格：4999元-5399元  [戳我加购](https://union-click.jd.com/jdc?e=&p=AyIGZRprFQMTBlQdWRUEEgVWKx9KWkxYZUIeUENQDEsFA1BWThgJBABAHUBZCQUdRUFGGRJDD1MdQlUQQwVKDFRXFk8jQA4SBlQaWhMAEgFVGVgldRR0JgUvRlh3bgVvHHx%2BDGwRb1tsch4LZRNbEAAVN1YaWxQLEg5UGVglMhIEZU01FQMTBlQaWhUGGzdVElMXChoFVhxZJQIWAF0ZWhwHEgdTHVglBRIOZUAOewcbAFAbWhdXGgRdEg8lMhIGVBpaEwASAVUZWCUBIjdlG2sWMlBpAh0IFgRADlEeXxxQF1dTTlJABRYBAh1dRwNAA10cUhEyEAZUH1I%3D)
+
+**华硕 a豆 14** 
+
+![img](https://pic1.zhimg.com/v2-51d2ca4a253bde832514370407d1cd70_b.jpeg)
+
+重：1.30kg，厚：16.50mm，电池：72whr
+
+- 配置：i5-8265U、8G内存、256G SSD
+- 屏幕：14英寸1080P、45%NTSC低色域
+- 优点：续航优秀、全金属机身、窄边框
+- 缺点：低色域屏幕、SATA固态，性能一般
+- 参考价格：4999元-5299元  [戳我加购](https://union-click.jd.com/jdc?e=&p=AyIGZRtcEQYbAl0ZXxMyEgZUGloWBRAOURpZJUZNXwtEa0xHV0YXEEULWldTCQQHCllHGAdFBwtEQkQBBRxNVlQYBUkeTVxNCRNLGEF6RwtVGloUAxEAVxJfFAAiQSgaQQ8KdlI3SD0PcGgHLksJb1gWUVkXaxQyEQZVGlIVCxMFVitrFQUiVDtADnsEQgVQSVpACxFSXEsPJQMiB1EcUhEBFQNSH1gRAyIAVRJrTld8AlwcXhUDEFJdGFMcViI3ZRhrJTISN1YrGXsLEgBUTAgXBhJQUR1eQQdHD1AaWRwEEgFUHAxHAUUCAStZFAMWDg%3D%3D)
+
+**惠普 EliteBook 735G6**
+
+![img](https://pic1.zhimg.com/v2-b64df642f82254242b07dc537ca6b540_b.png)
+
+重量：1.33kg，厚度：17.70mm
+
+- 配置：R7 PRO 3700U、8G内存、512G SSD
+- 屏幕：13.3英寸1080P、72%NTSC高色域
+- 参考价格：5299元-5699元  [戳我加购](https://union-click.jd.com/jdc?e=&p=AyIGZRtbEAMVA1ASUxAyEgZUGloTAhECVB1YJUZNXwtEa0xHV0YXEEULWldTCQQHCllHGAdFBwtEQkQBBRxNVlQYBUkeTVxNCRNLGEF6RwtVGloUAxQHVh5aEwEiZBxlJgt4FXQ2YkFSWWtjFBksVkNQZ1kXax0CFwVSK1gUAhMOVRJaFwEiN1UYa0NsEgZUGloUAxIDUStbHAoQD10ZWBIAIgdRHVocAxoBXRlaEAAiAFUSa05XfAJcHF4VAxBSXRhTHFYiN1UaWhQDFAdWHloTASIEZStrFTIRNxd1XBUAGwddEw9CUkACUE9cQVISU11OCBBRQVNSHg9BUkU3VxpaEQs%3D)
+
+**联想 小新Pro13 酷睿集显版**
+
+![img](https://pic1.zhimg.com/v2-b0776e5aeabc117386ffda776ea9bbc4_b.png)
+
+裸重：1.27kg，电池：56whr
+
+- 配置：i5-10210U、8G内存、512G SSD
+- 屏幕：13.3英寸2.5K、100%sRGB高色域
+- 优点：性价比高、高色域2.5K屏、16:10的屏幕比例，适合文字工作
+- 缺点：新机初售，时常缺货、内存无法扩展、接口偏少、方向键不友好
+- 参考价格：5499元  [戳我加购](https://union-click.jd.com/jdc?e=&p=AyIGZRprFQMTBlQSXxcGGg5UKx9KWkxYZUIeUENQDEsFA1BWThgJBABAHUBZCQUdRUFGGRJDD1MdQlUQQwVKDFRXFk8jQA4SBlQaWhwGEANdElolcEYGNn8cEwdxQ1JAWEtKcw4Leyhjch4LZRNbEAAVN1YaWxQLEg5UGVglMhIEZU01FQMTBlQaWhUGFDdVElMXChoFVhxZJQIWAF0eWRUEGwNTHl8lBRIOZUAOewcbAFAbWhdXGgRdEg8lMhIGVBpaHAYQA10SWiUBIjdlG2sWMlBpABpZEgZCAwYcDBAGFwMASAgXAEEAV08JRQISUgBPUhYyEAZUH1I%3D)
+
+**6000元-7000元**
+
+**戴尔 灵越13 7000**
+
+![img](https://pic4.zhimg.com/v2-7545d68e46d7cee5374fcd2830c31277_b.png)
+
+重：0.955kg，厚：14.90mm
+
+- 配置：i5-10210U、8G内存、512G SSD
+- 屏幕：13.3英寸1080P、72%NTSC高色域
+- 优点：高色域屏幕、轻
+- 缺点：接口少
+- 参考价格：5999元-6299元  [戳我加购](https://union-click.jd.com/jdc?e=&p=AyIGZRtYEQQaA10bXhIyEgZUGloQABcBXRldJUZNXwtEa0xHV0YXEEULWldTCQQHCllHGAdFBwtEQkQBBRxNVlQYBUkeTVxNCRNLGEF6RwtVGloUAxcFUB1TFwQicSVPP1R7Z2c2RiESQlMZXW1dYWJwd1kXax0CFwVSK1gUAhMOVRJaFwEiN1UYa0NsEgZUGloUAxICVCtbHAoQD10ZWBIAIgdRHFIdBRAFVBpYHQQiAFUSa05XfAJcHF4VAxBSXRhTHFYiN1UaWhQDFwVQHVMXBCIEZStrFTIRNxd1CBZQFlJdGltHUBMCUBkJFAobAAcaCBALQlNVGVsWVhY3VxpaEQs%3D)
+
+**联想 ThinkPad X390**
+
+![img](https://pic4.zhimg.com/v2-768ff486ecadbb39cfaba6b2c25cc0e7_b.png)
+
+裸重：1.30kg，厚度：16.90mm
+
+- 配置：i5-8265U、8G内存、256GSSD
+- 屏幕：13.3英寸1080P、100%sRGB高色域
+- 优点：高色域屏幕、续航不错
+- 缺点：隔热稍差
+- 参考价格：6899元-6999元  
+- 京东自营：[戳我加购](https://union-click.jd.com/jdc?e=&p=AyIGZRprFQMTBlQeWRUCFgRQKx9KWkxYZUIeUENQDEsFA1BWThgJBABAHUBZCQUdRUFGGRJDD1MdQlUQQwVKDFRXFk8jQA4SBlQaWhAAEgdRGF4lfnZiCE5YERxycydwO0Z%2BUkY2YS5och4LZRNbEAAVN1YaWxQLEg5UGVglMhIEZU01FQMTBlQaWhUGGzdVElMXChoFVhxZJQIWAF0ZWhwHFQVcEl0lBRIOZUAOewcbAFAbWhdXGgRdEg8lMhIGVBpaEAASB1EYXiUBIjdlG2sWMlBpVEtfRwZCA1AaXxELF1IBHggWVxEDVhpYEwRHAlNPCUcyEAZUH1I%3D)
+- 天猫旗舰：[戳我加购](https://s.click.taobao.com/t?e=m%3D2%26s%3DbH2tLNPgfj4cQipKwQzePOeEDrYVVa64K7Vc7tFgwiHjf2vlNIV67mvC7m%2BzFtIyghoTQriFyXzHBJrNyWy%2FUhtakJZDCFtXh7luXVktjzk0fMUMsi93u30PvODyjmBsbNt%2BQ9Mb0tem2vAytx9kdIkSuqc9YmfVV2RuVe3edD39Umq014SDk46%2BSOeTfXnP16KgKUzB3CT4U9GSzEQTkcYOae24fhW0&scm=null&pvid=null&app_pvid=59590_11.88.21.62_582_1571628988904&ptl=floorId:17741;originalFloorId:17741;app_pvid:59590_11.88.21.62_582_1571628988904&union_lens=lensId%3AOPT%401571628983%400b1a25b3_0efa_16dec6324ea_6a24%4001)
+
+**7000元-8000元**
+
+**LG gram 13/14/15**
+
+![img](https://pic2.zhimg.com/v2-8cff6c4728dfd5b54fdbc5b5cf4bd705_b.jpeg)
+
+重：0.965kg，厚：14.50mm，电池：72whr
+
+- 配置：i5-8265U、8G内存、256G SSD
+- 屏幕：13.3英寸1080P、96%sRGB高色域
+- 优点：续航优秀、质量轻、内存和硬盘皆可扩展、多种屏幕尺寸可选
+- 缺点：顶盖较软，手感欠佳
+- 参考价格：6799元-7799元  [戳我加购](https://union-click.jd.com/jdc?e=&p=AyIGZRprFQMTBlQZWhMFEg5QKx9KWkxYZUIeUENQDEsFA1BWThgJBABAHUBZCQUdRUFGGRJDD1MdQlUQQwVKDFRXFk8jQA4SBlQaWhcDFABVEl4lUWFdMU4caldxd1ZaMkhwGl4ye1gVRB4LZRprFgMSBlwbUhQAETdlG1wlVHwHVBpaFAsUAFYeaxQyEgNSEl8WBRQFVx5eEzIVB1wrAEBsFw5SHlsUAEcPVhNSQTIiN1YrayUCIgRlWTUcBkVUVhsMQAcXDlIeCxdRQVdSGlgQVRpXXR9bEQoXA2UZWhQGGw%3D%3D)
+
+**宏碁 蜂鸟5**
+
+![img](https://pic4.zhimg.com/v2-4f9a40dbf2781af319a185fb8a16f12f_b.png)
+
+重量：0.990kg，厚度：15.90mm
+
+- 配置：i5-8265U、8G内存、256G SSD
+- 屏幕：15.6英寸1080P、72%NTSC高色域
+- 参考价格：7488元-7599元  
+- 京东自营：[戳我加购](https://union-click.jd.com/jdc?e=&p=AyIGZRprFQMTBlQYXBMHEAdRKx9KWkxYZUIeUENQDEsFA1BWThgJBABAHUBZCQUdRUFGGRJDD1MdQlUQQwVKDFRXFk8jQA4SBlQaWhYFFAJXG18lBWpfCB04EUdyQA1kGExdZW4JaSBnYh4LZRNbEAAVN1YaWxQLEg5UGVglMhIEZU01FQMTBlQaWhUEFDdVElMXChoFVhxZJQIWAVQSWhwKFwJdE14lBRIOZUAOewcbAFAbWhdXGgRdEg8lMhIGVBpaFgUUAlcbXyUBIjdlG2sWMlBpVRxcHAUbA1JOWhIFF1IASQgWUUJTVBpdFAAVUFEeXhIyEAZUH1I%3D)
+- 天猫旗舰：[戳我加购](https://s.click.taobao.com/t?e=m%3D2%26s%3D53VnkjVn6qMcQipKwQzePOeEDrYVVa64K7Vc7tFgwiHjf2vlNIV67gusXs32Ff%2Fp2VSL3ITNpk3HBJrNyWy%2FUhtakJZDCFtXh7luXVktjzk0fMUMsi93u30PvODyjmBsbNt%2BQ9Mb0tem2vAytx9kdGtUgTljGxYsxF9YZWaEBfv9Umq014SDkwvzM5HMQuXQAmOEWNNykKmx38IPVlmcZHEqY%2Bakgpmw&scm=null&pvid=null&app_pvid=59590_11.88.140.96_512_1571652351019&ptl=floorId:17741;originalFloorId:17741;app_pvid:59590_11.88.140.96_512_1571652351019&union_lens=lensId%3AOPT%401571652335%400b0f878d_0e4a_16dedc778d0_859d%4001)
+
+**8000+元**
+
+**戴尔 XPS15-7590 集显版**
+
+![img](https://pic3.zhimg.com/v2-4c5c4d253170d8ade1cb82799607b886_b.png)
+
+重：2.0kg，电池：97whr
+
+- 配置：i5-9300H、8G内存、512G SSD
+- 屏幕：15.6英寸1080P、72%NTSC高色域
+- 优点：16：10高色域宽屏、三边窄边框
+- 缺点：贵
+- 参考价格：8999元-9999元  [戳我加购](https://union-click.jd.com/jdc?e=&p=AyIGZRtYEQQaA10bXhIyEgZUGloSBhUBVR5SJUZNXwtEa0xHV0YXEEULWldTCQQHCllHGAdFBwtEQkQBBRxNVlQYBUkeTVxNCRNLGEF6RwtVGloUAxUDUh1bEAsiBypMAhIEV2c1TS1RSXVzUGIrXQRrUVkXax0CFwVSK1gUAhMOVRJaFwEiN1UYa0NsEgZUGloUAxICVCtbHAoQD10ZWBIAIgdRHVoVChMDVRtSEQUiAFUSa05XfAJcHF4VAxBSXRhTHFYiN1UaWhQDFQNSHVsQCyIEZStrFTIRNxd1XUFXGwJXHAkQBRcGUBpTR1IQVFVMWRFWQFUFTlxFVUE3VxpaEQs%3D)
+
+**戴尔 XPS13-7390**
+
+![img](https://pic4.zhimg.com/v2-e7f986eabba5a2e11f1b67520c4e7f63_b.png)
+
+重：1.23kg，厚：16.10mm，电池：52whr
+
+- 配置：i5-10210U、8G内存、512G SSD
+- 屏幕：13.3英寸1080P、100%sRGB高色域
+- 优点：16：10高色域宽屏、三边窄边框、散热优秀
+- 缺点：贵
+- 参考价格：9989元-10499元  [戳我加购](https://union-click.jd.com/jdc?e=&p=AyIGZRtYEQQaA10bXhIyEgZUGloQBRsHURJTJUZNXwtEa0xHV0YXEEULWldTCQQHCllHGAdFBwtEQkQBBRxNVlQYBUkeTVxNCRNLGEF6RwtVGloUAxcAXBtfHAoiUSsdL017GlQ2HT1%2BGBthUH0SVGFyZ1kXax0CFwVSK1gUAhMOVRJaFwEiN1UYa0NsEgZUGloUAxICVCtbHAoQD10ZWBIAIgdRHFIdBhsDVBpdEQUiAFUSa05XfAJcHF4VAxBSXRhTHFYiN1UaWhQDFwBcG18cCiIEZStrFTIRNxd1UhxXRlcHTgtACkAHUBxfRwtFUlUcUxUGFVdVGVsSVUI3VxpaEQs%3D)
+
+**联想 ThinkPad X1 Carbon 2019**
+
+![img](https://pic3.zhimg.com/v2-89c323e799b090b6ea526b83ccbc20e2_b.png)
+
+重：1.09kg，厚：14.95mm，电池：51whr
+
+- 配置：i5-8265U、8G内存、512G SSD
+- 屏幕：14英寸1080P、100%sRGB高色域
+- 参考价格：9999元  
+- 京东自营：[戳我加购](https://union-click.jd.com/jdc?e=&p=AyIGZRprFQMTBlQZUh0LGw5XKx9KWkxYZUIeUENQDEsFA1BWThgJBABAHUBZCQUdRUFGGRJDD1MdQlUQQwVKDFRXFk8jQA4SBlQaWhcLGg5cElklVGZcPWQAYlx3YgUSDHNgRn01ATpgYh4LZRNbEAAVN1YaWxQLEg5UGVglMhIEZU01FQMTBlQaWhUGGzdVElMXChoFVhxZJQIWAF0fUhUHEAdTGFMlBRIOZUAOewcbAFAbWhdXGgRdEg8lMhIGVBpaFwsaDlwSWSUBIjdlG2sWMlBpAktdRQBBA1dPWR1QFwMHGAsdBUVXAR9fEFJABlAdXBwyEAZUH1I%3D)
+- 天猫旗舰：[戳我加购](https://s.click.taobao.com/t?e=m%3D2%26s%3DW9sXkUDVOGscQipKwQzePOeEDrYVVa64K7Vc7tFgwiHjf2vlNIV67iDV7zY1jLGtCtmXdOL%2FlDnHBJrNyWy%2FUhtakJZDCFtXh7luXVktjzk0fMUMsi93u30PvODyjmBsbNt%2BQ9Mb0tem2vAytx9kdIkSuqc9YmfVV2RuVe3edD39Umq014SDk46%2BSOeTfXnPllJll28KNcA7ykEjEAYE2sYOae24fhW0&scm=null&pvid=null&app_pvid=59590_11.26.37.207_553_1571629242394&ptl=floorId:17741;originalFloorId:17741;app_pvid:59590_11.26.37.207_553_1571629242394&union_lens=lensId%3AOPT%401571629237%400b588c63_0e7c_16dec67036a_14fb%4001)
+
+**Apple Macbook Pro 13.3 2019**
+
+![img](https://pic1.zhimg.com/v2-4c54f488726b119568cc56db5a98c4f4_b.png)
+
+重：1.37kg，厚：14.90mm
+
+- 配置：i5-8279U、8G内存、512G SSD
+- 屏幕：13.3英寸2K、P3广色域
+- 参考价格：14299元-14599元  [戳我加购](https://union-click.jd.com/jdc?e=&p=AyIGZRprFQMTBlQZXxYDFA5RKx9KWkxYZUIeUENQDEsFA1BWThgJBABAHUBZCQUdRUFGGRJDD1MdQlUQQwVKDFRXFk8jQA4SBlQaWhcGEQZTEl8lVll7U0whdFRyYTNvXxMcUwAjXyBJVB4LZRNbEAAVN1YaWxQLEg5UGVglMhIEZU01FQMTBlQaWhUBFDdVElMXChoFVhxZJQIWAF0TWhQEFgZVHVolBRIOZUAOewcbAFAbWhdXGgRdEg8lMhIGVBpaFwYRBlMSXyUBIjdlG2sWMlBpUUlaRQJHVVIcUxRSFwdcHwgdC0IBVUtaFFcSBlccWRwyEAZUH1I%3D)
+
+------
+
+## **👉**游戏本推荐
+
+**4000元-5000元**
+
+**【★★★★☆】炫龙 DC2畅玩版**
+
+![img](https://pic1.zhimg.com/v2-7f005417c4f7767d3ff4ca409559a9fc_b.png)
+
+- 配置：i5-9400、GTX1050、8G内存、256G SSD
+- 屏幕：15.6英寸1080P、45%NTSC低色域
+- 参考价格：4099元-4299元  [戳我加购](https://union-click.jd.com/jdc?e=&p=AyIGZRprFQMTBlQeXhMAFgdUKx9KWkxYZUIeUENQDEsFA1BWThgJBABAHUBZCQUdRUFGGRJDD1MdQlUQQwVKDFRXFk8jQA4SBlQaWhAHFAVRG1oleWVGJU5fcHRwVC9AHENWckAjYBlWch4LZRprFgMSBlwbUhQAETdlG1wlVHwHVBpaFAIXAFwZaxQyEgNSEl8WBBMPVRNfETIVB1wrAEBsFw5SHlsUAEcPVhNSQTIiN1YrayUCIgRlWTUcB0UHXUxZQAsUUFQeC0FSGlcCHQwdUUEGV0kOFQdGBmUZWhQGGw%3D%3D)
+
+**【★★★★☆】神舟 战神K670E-G6A5**
+
+![img](https://pic1.zhimg.com/v2-b915d8e78e912626d6ae8e45a0e35ec0_b.png)
+
+- 配置：i5-9400、GTX1050、8G内存、512G SSD
+- 屏幕：15.6英寸1080P、45%NTSC低色域
+- 参考价格：4399元-4699元  [戳我加购](https://union-click.jd.com/jdc?e=&p=AyIGZRprFQMTBlQZWhELEg9RKx9KWkxYZUIeUENQDEsFA1BWThgJBABAHUBZCQUdRUFGGRJDD1MdQlUQQwVKDFRXFk8jQA4SBlQaWhcDFg5VE18ldml6LnkPHHRwcQ1uKAtXQlkvGxB3RB4LZRNbEAAVN1YaWxQLEg5UGVglMhIEZU01FQMTBlQaWhUGFTdVElMXChoFVhxZJQIWAFwTXBUBGwFRGFwlBRIOZUAOewcbAFAbWhdXGgRdEg8lMhIGVBpaFwMWDlUTXyUBIjdlG2sWMlBpUkxYRVdBU1JLWxVQF1cBEghBVhAEXBMPFgoWUgZMD0cyEAZUH1I%3D)
+
+**【★★★★★】神舟 战神ZX6-CT5DA**
+
+![img](https://pic1.zhimg.com/v2-a3477c8e77506a70413afc1fede47580_b.png)
+
+- 配置：i5-9400、GTX1650、8G内存、512G SSD
+- 屏幕：15.6英寸1080P、45%NTSC低色域
+- 参考价格：4799元-4999元  [戳我加购](https://union-click.jd.com/jdc?e=&p=AyIGZRprFQMTBlQcWhADFwRUKx9KWkxYZUIeUENQDEsFA1BWThgJBABAHUBZCQUdRUFGGRJDD1MdQlUQQwVKDFRXFk8jQA4SBlQaWhIDFwZQGFolA2xvKVAHHHFwBgliLGBpG3IsSCgcVB4LZRprFgMSBlwbUhQAETdlG1wlVHwHVBpaFAMTB1EcaxQyEgNSEl8WBBIHUhNSHDIVB1wrAEBsFw5SHlsUAEcPVhNSQTIiN1YrayUCIgRlWTVHCxJUUxoJQVATA1EeDxwFGgFSSFocVkJQVkgPFQUSAGUZWhQGGw%3D%3D)
+
+【★★★★☆】**炫龙 DC3 Plus**
+
+![img](https://pic2.zhimg.com/v2-fa425cf6aea332227cc1e4f226ec31d1_b.png)
+
+- 配置：i5-9400、GTX1050、8G内存、512G SSD
+- 屏幕：16.1英寸1080P、72%NTSC高色域
+- 优点：高色域屏幕、性价比高
+- 缺点：二三线品牌，售后和品控稍弱、做工一般
+- 参考价格：4799元-4899元  [戳我加购](https://union-click.jd.com/jdc?e=&p=AyIGZRprFQMTBlQfUxQFGwRWKx9KWkxYZUIeUENQDEsFA1BWThgJBABAHUBZCQUdRUFGGRJDD1MdQlUQQwVKDFRXFk8jQA4SBlQaWhEKEwBcGFglBWxzMWAfRgVwVBEbJ1V%2BalAHTixRch4LZRprFgMSBlwbUhQAETdlG1glVHwHVBpaFAIXAFwZaxUCEQZdG14VChU3VR9dFAIaB1UcWhMKEzdSG1IlWUdpUBJcEAITBQATWB0LRjdlG1oUAxMDXRpcHAERN1YrayUCIgRlWTUQBEAOVBlSQgQRVVAeXxZRQVdUHVtBAUEEUx1bR1cbBmUZWhQGGw%3D%3D)
+
+**【★★★★★】神舟 战神Z7M-CT5NA** 
+
+![img](https://pic4.zhimg.com/v2-9d1c10d889008a9fe8a4628a4233421b_b.jpeg)
+
+- 配置：i5-9300H、GTX1650、8G内存、512G SSD
+- 屏幕：15.6英寸1080P、45%NTSC低色域
+- 参考价格：4899元-5099元  [戳我加购](https://union-click.jd.com/jdc?e=&p=AyIGZRprFQMTBlQeUxUEFw9UKx9KWkxYZUIeUENQDEsFA1BWThgJBABAHUBZCQUdRUFGGRJDD1MdQlUQQwVKDFRXFk8jQA4SBlQaWhAKEgFQE1olcXVPDAECVAFwYRUYHxB3VmcoZlxyRB4LZRprFgMSBlwbUhQAETdlG1wlVHwHVBpaFAMTB1EcaxQyEgNSEl8WBBICUR1TEjIVB1wrAEBsFw5SHlsUAEcPVhNSQTIiN1YrayUCIgRlWTUcA0cDBRpaQAtBVAIeCBIEGwEBSAkVAEZVV09SFlYRAGUZWhQGGw%3D%3D)
+
+**5000元-6000元**
+
+【★★★★☆】**炫龙 T3PRO**
+
+![img](https://pic1.zhimg.com/v2-e46af584abc0b51a3461d1b30ad68b84_b.png)
+
+- 配置：i5-9300H、GTX1650、8G内存、256GB SSD+1TB HDD
+- 屏幕：15.6英寸1080P、45%NTSC低色域
+- 参考价格：5299元-5399元  [戳我加购](https://union-click.jd.com/jdc?e=&p=AyIGZRprFQMTBlQeXhIGFg5cKx9KWkxYZUIeUENQDEsFA1BWThgJBABAHUBZCQUdRUFGGRJDD1MdQlUQQwVKDFRXFk8jQA4SBlQaWhAHFQNRElIlQW90UUkrV1lwDidQB3UFdFoMWjxgYh4LZRNbEAAVN1YaWxQLEg5UGVglMhIEZU01FQMTBlQbXhILEDdVElMXChoFVhxZJQIWAVQfWBUEEQdWE1MlBRIOZUAOewcbAFAbWhdXGgRdEg8lMhIGVBpaEAcVA1ESUiUBIjdlG2sWMlBpUxhaRwoWAwUfCBZRF1AFTAhFAkJVAk9dQAIQBAFMDxwyEAZUH1I%3D)
+
+【★★★★★】**联想 拯救者Y7000 2019 1050低色域版**
+
+![img](https://pic4.zhimg.com/v2-c23865c1fc9fdbabaa3f3dd6c73c75e7_b.png)
+
+重量：2.30kg，厚度：23.90mm
+
+- 配置：i5-9300H、GTX1050、8G内存、512G SSD
+- 屏幕：15.6英寸1080P、45%NTSC低色域
+- 参考价格：5499元-5699元  [戳我加购](https://union-click.jd.com/jdc?e=&p=AyIGZRprFQMTBlQfXRYHFQ9UKx9KWkxYZUIeUENQDEsFA1BWThgJBABAHUBZCQUdRUFGGRJDD1MdQlUQQwVKDFRXFk8jQA4SBlQaWhEEEQJSE1olY1V4J1NBfHt3BgFIH0pGaVlXGgYSRB4LZRNbEAAVN1YaWxQLEg5UGVglMhIEZU01FQMTBlQaWhUGFDdVElMXChoFVhxZJQIWAVQeWxYFFwJVHVolBRIOZUAOewcbAFAbWhdXGgRdEg8lMhIGVBpaEQQRAlITWiUBIjdlG2sWMlBpXRleHAVFBlcdWUYHFwZcE1NCAUYGXBIPRQoQAFEdUhwyEAZUH1I%3D)
+
+**【★★★**☆☆**】戴尔 游匣G3** 
+
+![img](https://pic2.zhimg.com/v2-f8b691f51b51a9d6c359100f50e70ec1_b.jpeg)
+
+- 配置：i5-9300H、GTX1650、8G内存、1T+128G SSD
+- 屏幕：15.6英寸1080P、45%NTSC低色域
+- 参考价格：5499元-5899元  [戳我加购](https://union-click.jd.com/jdc?e=&p=AyIGZRtYEQQaA10bXhIyEgZUGloRABEEUhpYJUZNXwtEa0xHV0YXEEULWldTCQQHCllHGAdFBwtEQkQBBRxNVlQYBUkeTVxNCRNLGEF6RwtVGloUAxYFVhhcFAEiVFNoUgsATl0wGwNya0pXPRk6SwREUVkXaxQyEQZVGlIVCxMFVitrFQUiUTsbWhQDEwZUG14UMhM3VR9cHAYRAVYYUhUDFDdSG1IlWUdpUBJcEAITBQATWB0LRjdlK1glMiIHZRhrV2xHDlweCUYBEQMCGF8QBxJTXRwJRQEbBldJWx1WRwAGGGsXAxMDXA%3D%3D)
+
+**【★★★☆☆】宏碁 暗影骑士4 AN515 i5版** 
+
+![img](https://pic2.zhimg.com/v2-e71e7791e664fe92b83cad0cee569671_b.jpeg)
+
+- 配置：i5-9300H、GTX1650、8G内存、512G SSD
+- 屏幕：15.6英寸1080P、72%NTSC高色域
+- 参考价格：5699元-5999元  [戳我加购](https://union-click.jd.com/jdc?e=&p=AyIGZRtbFgQRB1YaXRMyEgZUGloXAhUPVBNdJUZNXwtEa0xHV0YXEEULWldTCQQHCllHGAdFBwtEQkQBBRxNVlQYBUkeTVxNCRNLGEF6RwtVGloUAxAHUhNaHQQiZA9mJ1QEElQ3Wi1tdWVVDBMTHEBtUVkXaxQyEQZVGlIVCxMFVitrFQUiRTtAEFAeQlUBWEdKUSIGZRtfEgsWBFMYXx0KFARlHFscMklSOx5SEgcSBldOUxYKG1NlK2sWMiI3VStYJUB8D1NJXEcHEAVdH19ABxIOXEtSHVdFUwZJDkJWQgEFHFslABMGURI%3D)
+
+**【★★★★☆】神舟 战神Z7-CT5NA** 
+
+![img](https://pic4.zhimg.com/v2-548bf471397fb293e88a8ff2cc6f175b_b.jpeg)
+
+- 配置：i5-9300H、GTX1660Ti、8G内存、512G SSD
+- 屏幕：15.6英寸1080P、45%NTSC低色域
+- 优点：极具性价比、散热尚可
+- 缺点：品控和售后不友好、塑料感、低色域屏幕
+- 参考价格：5799元-5999元  [戳我加购](https://union-click.jd.com/jdc?e=&p=AyIGZRprFQMTBlQZWhEBEQBTKx9KWkxYZUIeUENQDEsFA1BWThgJBABAHUBZCQUdRUFGGRJDD1MdQlUQQwVKDFRXFk8jQA4SBlQaWhcDFgRWHF0leBBwIx9ecHxyHTdeLGlAaX8xQCxJVB4LZRprFgMSBlwbUhQAETdlG1wlVHwHVBpaFAMTB1EcaxQyEgNSEl8WBBEGVR9dEjIVB1wrAEBsFw5SHlsUAEcPVhNSQTIiN1YrayUCIgRlWTUUABZUBk5bEFYSD1IeDxEKGlUCHAgXAxACURlZHAUXA2UZWhQGGw%3D%3D)
+
+【★★★★☆】**雷神 911Air星战二代**
+
+![img](https://pic4.zhimg.com/v2-de64a892791b3eb3fd6b8a2307b047e7_b.png)
+
+- 配置：i5-9300H、GTX1650、8GB内存、512G SSD
+- 屏幕：17.3英寸1080P、45%NTSC低色域
+- 参考价格：5799元-6099元  [戳我加购](https://union-click.jd.com/jdc?e=&p=AyIGZRprFQMTBlQfWRYBFgBUKx9KWkxYZUIeUENQDEsFA1BWThgJBABAHUBZCQUdRUFGGRJDD1MdQlUQQwVKDFRXFk8jQA4SBlQaWhEAEQRRHFoldQxSPWM4QVV3dTNsLE8YeR0pHRxiRB4LZRNbEAAVN1YaWxQLEg5UGVglMhIEZU01FQMTBlQaWhIAFjdVElMXChoFVhxZJQIWAVQcUxELGwFcGVolBRIOZUAOewcbAFAbWhdXGgRdEg8lMhIGVBpaEQARBFEcWiUBIjdlG2sWMlBpXR5SFgMXBwZLDhcHF1NUSFMQBUABUUxdEAcWBVwSWxIyEAZUH1I%3D)
+
+【★★★★★】**联想 拯救者Y7000 2019 1650低色域版**
+
+![img](https://pic3.zhimg.com/v2-0871079f81b6cebae94b11a7d641e566_b.png)
+
+重量：2.30kg，厚度：23.90mm
+
+- 配置：i5-9300H、GTX1650、8G内存、512G SSD
+- 屏幕：15.6英寸1080P、45%NTSC低色域
+- 参考价格：5899元-6299元  [戳我加购](https://union-click.jd.com/jdc?e=&p=AyIGZRprFQMTBlQZWxEDFQ5XKx9KWkxYZUIeUENQDEsFA1BWThgJBABAHUBZCQUdRUFGGRJDD1MdQlUQQwVKDFRXFk8jQA4SBlQaWhcCFgZSElklcRN4Ihs4dAtwdBVLABQFV3hVTlMPVB4LZRNbEAAVN1YaWxQLEg5UGVglMhIEZU01FQMTBlQaWhUGFDdVElMXChoFVhxZJQIWAVQeWxcCEwNRGlklBRIOZUAOewcbAFAbWhdXGgRdEg8lMhIGVBpaFwIWBlISWSUBIjdlG2sWMlBpXE9eFwMRBwYYWkYHFw4CSwgUAUIFBkxZEVFBVVIeDxIyEAZUH1I%3D)
+
+**6000元-7000元**
+
+**【★★★★★】惠普 暗影精灵5** **1650版**
+
+![img](https://pic1.zhimg.com/v2-cbf13f97f6ac270e5c92981ed5e0f4a0_b.jpeg)
+
+- 配置：i5-9300H、GTX1650、8G内存、512G SSD
+- 屏幕：15.6英寸1080P、72%NTSC高色域
+- 优点：性价比高、高色域屏幕、散热尚可
+- 缺点：隔热差、方向键不友好
+- 参考价格：5999元-6299元  [戳我加购](https://union-click.jd.com/jdc?e=&p=AyIGZRtbEAMVA1ASUxAyEgZUGloRBRMFXBlcJUZNXwtEa0xHV0YXEEULWldTCQQHCllHGAdFBwtEQkQBBRxNVlQYBUkeTVxNCRNLGEF6RwtVGloUAxYAVBlSFwUiHSB4IHFHWXM2HDlHUVVCABstfWBIUVkXaxQyEQZVGlIVCxMFVitrFQUiUTsbWhQDEwZUG18RMhM3VR9cHAYRAVUdXxUGGjdSG1IlWUdpUBJcEAITBQATWB0LRjdlK1glMiIHZRhrV2wWAwJOWBALEQNSS1MQVhYGBU8IEQEXVVUSWhEFRw5cG2sXAxMDXA%3D%3D)
+- 144HZ版：6299元-6599元  [戳我加购](https://union-click.jd.com/jdc?e=&p=AyIGZRtbEAMVA1ASUxAyEgZUGloXABoDUhtfJUZNXwtEa0xHV0YXEEULWldTCQQHCllHGAdFBwtEQkQBBRxNVlQYBUkeTVxNCRNLGEF6RwtVGloUAxAFXR9cFQYiHQ99JBVbEGA1AVhWBXRjHE84RUJQUVkXax0CFwVSK1gUAhMOVRJaFwEiN1UYa0NsEgZUGloUAxIDUStbHAoQD10ZWBIAIgdRHVoQAhsBXR5cHQIiAFUSa05XfAJcHF4VAxBSXRhTHFYiN1UaWhQDEAVdH1wVBiIEZStrFTIRNxd1XUAEGw5WH1ISAhdQUElcEQoWD1ATUxcCQgJXGg5CBxE3VxpaEQs%3D)
+
+【★★★★☆】**机械革命 Z2 Air**
+
+![img](https://pic4.zhimg.com/v2-99200f9e3f84aafb4e99d1d1c42a498f_b.png)
+
+- 配置：i7-9750H、GTX1650、8G内存、512G SSD
+- 屏幕：15.6英寸1080P、72%NTSC高色域
+- 参考价格：6099元-6199元  [戳我加购](https://union-click.jd.com/jdc?e=&p=AyIGZRtYEAYWD1ATWBIyEgZUGloXAxYEUxxbJUZNXwtEa0xHV0YXEEULWldTCQQHCllHGAdFBwtEQkQBBRxNVlQYBUkeTVxNCRNLGEF6RwtVGloUAxAGURhdEgIiZFJNQUxgEEY3REEVXEZzBngsaHZrQVkXax0CFwVSK1gUAhMOVRJaFwEiN1UYa0NsEgZUGloUAxoCXCtbHAoQD10ZWBIAIgdRHVoRAREDXBJcFwAiAFUSa05XfAJcHF4VAxBSXRhTHFYiN1UaWhQDEAZRGF0SAiIEZStrFTIRNxd1UhdSE1IHG1tFVxQFUBteEVFGUl1JCBcEGwQBGg8VAhI3VxpaEQs%3D)
+
+**【★★★★☆】炫龙 KP3 Plus**
+
+![img](https://pic3.zhimg.com/v2-5b77514a543142fac3ffcd09b07f0826_b.png)
+
+- 配置：i5-9400、GTX1660Ti 、8G内存、512G SSD
+- 屏幕：16.1英寸1080P、72%NTSC高色域
+- 参考价格：6299元-6399元  [戳我加购](https://union-click.jd.com/jdc?e=&p=AyIGZRprFQMTBlQeWhcEEQBVKx9KWkxYZUIeUENQDEsFA1BWThgJBABAHUBZCQUdRUFGGRJDD1MdQlUQQwVKDFRXFk8jQA4SBlQaWhADEAFWHFsldGplJ2kvSgByYQ1jD1ZrTFQdeCBBch4LZRNbEAAVN1YaWxQLEg5UGVglMhIEZU01FQMTBlQbXhILEDdVElMXChoFVhxZJQIWAVUeXBcHEQVRHFIlBRIOZUAOewcbAFAbWhdXGgRdEg8lMhIGVBpaEAMQAVYcWyUBIjdlG2sWMlBpUExYHQQRA1MfDBcBFwNWGVMTUhcCBR4LEQQWVFAYU0IyEAZUH1I%3D)
+
+**【★★★★★】联想 拯救者Y7000 2019 1650高色域版**
+
+![img](https://pic1.zhimg.com/v2-daeb579c22b1ae6acdcb1671716e43a8_b.jpeg)
+
+- 配置：i5-9300H、GTX1650、8G内存、1T SSD
+- 屏幕：15.6英寸1080P、72%NTSC高色域
+- 优点：窄边框、高色域屏幕、散热不错
+- 缺点：键盘布局需要适应
+- 参考价格：6399元-6599元  
+- 京东自营：[戳我加购](https://union-click.jd.com/jdc?e=&p=AyIGZRprFQMTBlQfWxUHFgFcKx9KWkxYZUIeUENQDEsFA1BWThgJBABAHUBZCQUdRUFGGRJDD1MdQlUQQwVKDFRXFk8jQA4SBlQaWhECEgJRHVIlRE9uIR8lQUJyXglQHAsCTllRTllwch4LZRprFgMSBlwbUhQAETdlG1wlVHwHVBpaFAMTB1EdaxQyEgNSEl8WBBEOVhJZFDIVB1wrAEBsFw5SHlsUAEcPVhNSQTIiN1YrayUCIgRlWTUSARACUE5fEQtHBFceXxMFQQJXTwkRURpVVBIPHAdHUmUZWhQGGw%3D%3D)
+- 天猫旗舰：[戳我加购](https://s.click.taobao.com/t?e=m%3D2%26s%3Dgma1QGjIw%2BQcQipKwQzePOeEDrYVVa64K7Vc7tFgwiHjf2vlNIV67s0JMYUP5LCgPfl2ZNdwIlnHBJrNyWy%2FUhtakJZDCFtXh7luXVktjzk0fMUMsi93u30PvODyjmBsbNt%2BQ9Mb0tem2vAytx9kdDVH79XYwd4F0a3u46RXbteREjEiL0p2TupL9cJfNfu1WQmu%2FgRNV5zVkrP2YxtHocYl7w3%2FA2kb&scm=null&pvid=null&app_pvid=59590_11.21.12.113_2292_1571629478265&ptl=floorId:17741;originalFloorId:17741;app_pvid:59590_11.21.12.113_2292_1571629478265&union_lens=lensId%3AOPT%401571629471%400b58153e_0e60_16dec6a988a_5b42%4001)
+
+**【★★★★☆】神舟 战神GX7-CT5DS** 
+
+![img](https://pic1.zhimg.com/v2-6756b44f7bd093a471b1fd1332d0b464_b.jpeg)
+
+- 配置：i5-9400、GTX1660Ti、16GB内存、512G SSD
+- 屏幕：17.3英寸1080P、94%NTSC高色域、120Hz电竞屏
+- 参考价格：6599元  [戳我加购](https://union-click.jd.com/jdc?e=&p=AyIGZRprFQMTBlQZXhIGFwBVKx9KWkxYZUIeUENQDEsFA1BWThgJBABAHUBZCQUdRUFGGRJDD1MdQlUQQwVKDFRXFk8jQA4SBlQaWhcHFQNQHFsldERSPn9aXEN3chV%2FMk93SVAxUgNOYh4LZRprFgMSBlwbUhQAETdlG1wlVHwHVBpaFAMTB1EcaxQyEgNSEl8WBBAFUhhSFjIVB1wrAEBsFw5SHlsUAEcPVhNSQTIiN1YrayUCIgRlWTUcBRoOUUsLHVBCBQceX0FQGg4GGw5GBxQCBUxZRQQTU2UZWhQGGw%3D%3D)
+
+**【★★★★★】联想 拯救者Y7000P 2019 1650版**
+
+![img](https://pic4.zhimg.com/v2-c95941d2ea8a223626a6513abaaea52b_b.jpeg)
+
+- 配置：i5-9300H、GTX1650、8G内存、1T SSD
+- 屏幕：15.6英寸1080P、72%NTSC高色域、144Hz电竞屏
+- 优点：高色域屏幕、电竞屏
+- 缺点：键盘布局需要适应
+- 参考价格：6899元-7099元  [戳我加购](https://union-click.jd.com/jdc?e=&p=AyIGZRprFQMTBlQfWxUHFg5UKx9KWkxYZUIeUENQDEsFA1BWThgJBABAHUBZCQUdRUFGGRJDD1MdQlUQQwVKDFRXFk8jQA4SBlQaWhECEgJREloldFoAMnNZTQJ3GTdSGVRccVAeYClvVB4LZRprFgMSBlwbUhQAETdlG1wlVHwHVBpaFAMTB1EdaxQyEgNSEl8WBBAHVB5ZHTIVB1wrAEBsFw5SHlsUAEcPVhNSQTIiN1YrayUCIgRlWTVGUUVQAhkPHAJBAAIeXUIHGlcGH1wWUBQGXRkMFFVGVGUZWhQGGw%3D%3D)
+
+**7000元-8000元**
+
+**【★★★★★】惠普 暗影精灵5 1660Ti版**
+
+![img](https://pic2.zhimg.com/v2-efe89545d88413344027007ae53243c9_b.jpeg)
+
+- 配置：i5-9300H、GTX1660Ti、8G内存、512G SSD
+- 屏幕：15.6英寸1080P、72%NTSC高色域
+- 优点：性价比高、高色域屏幕
+- 缺点：隔热差、方向键不友好
+- 参考价格：6999元-7299元  [戳我加购](https://union-click.jd.com/jdc?e=&p=AyIGZRtbEAMVA1ASUxAyEgZUGloRBRMFXBleJUZNXwtEa0xHV0YXEEULWldTCQQHCllHGAdFBwtEQkQBBRxNVlQYBUkeTVxNCRNLGEF6RwtVGloUAxYAVBlSFwciBz1%2BRUADURkwZlhMeFZCXV8%2BFXJRUVkXaxQyEQZVGlIVCxMFVitrFQUiUTsbWhQDEwZUG18RMhM3VR9cHAYRAVcfUxMBEzdSG1IlWUdpUBJcEAITBQATWB0LRjdlK1glMiIHZRhrV2xFUFJMUhxQGlNREl4QChRTBU9aFldABgFPDhwAQgIFT2sXAxMDXA%3D%3D)
+- 144HZ版：7299元-7599元  [戳我加购](https://union-click.jd.com/jdc?e=&p=AyIGZRtbEAMVA1ASUxAyEgZUGloRBRMFXBtaJUZNXwtEa0xHV0YXEEULWldTCQQHCllHGAdFBwtEQkQBBRxNVlQYBUkeTVxNCRNLGEF6RwtVGloUAxYAVBlSFQMiVzYZPUhZdXI3QzlLQUZ7M15ZdgZvZ1kXax0CFwVSK1gUAhMOVRJaFwEiN1UYa0NsEgZUGloUAxIDUStbHAoQD10ZWBIAIgdRHVoQAhsPVRlZFAciAFUSa05XfAJcHF4VAxBSXRhTHFYiN1UaWhQDFgBUGVIVAyIEZStrFTIRNxd1CEIHGw9WGw5BVhcAUB1aEAobA1wbCRIHGw9dS14WAhM3VxpaEQs%3D)
+- i7+144HZ版：7999元-8299元  [戳我加购](https://union-click.jd.com/jdc?e=&p=AyIGZRtbEAMVA1ASUxAyEgZUGloRBRMAVxtcJUZNXwtEa0xHV0YXEEULWldTCQQHCllHGAdFBwtEQkQBBRxNVlQYBUkeTVxNCRNLGEF6RwtVGloUAxYAVBxZFQUiUxEBG0xURh01WUFhfGtTAnAOawd6QVkXax0CFwVSK1gUAhMOVRJaFwEiN1UYa0NsEgZUGloUAxIDUStbHAoQD10ZWBIAIgdRHVoQARsHVRNaFgAiAFUSa05XfAJcHF4VAxBSXRhTHFYiN1UaWhQDFgBUHFkVBSIEZStrFTIRNxd1U0YEF1NSHlJCChdTUE9dRVITVFZMWhMAFgVVH1sQBUE3VxpaEQs%3D)
+
+**【★★★★☆】戴尔 游匣G3 GTX1660TiMQ** 
+
+![img](https://pic3.zhimg.com/v2-c9150f35de755665349ae143b4405bf2_b.jpeg)
+
+- 配置：i7-9750H、GTX1660Ti Max-Q、8G内存、512G SSD
+- 屏幕：15.6英寸1080IPS、72%NTSC高色域
+- 参考价格：7099元-7299元  [戳我加购](https://union-click.jd.com/jdc?e=&p=AyIGZRtYEQQaA10bXhIyEgZUGloRBBECUhNYJUZNXwtEa0xHV0YXEEULWldTCQQHCllHGAdFBwtEQkQBBRxNVlQYBUkeTVxNCRNLGEF6RwtVGloUAxYBVh5cHQEiYCpvXkZ%2FFXw3RlxcYElMBkhFElxtZ1kXaxQyEQZVGlIVCxMFVitrFQUiUTsbWhQDEwZUG14UMhM3VR9cHAYRAVcSUxICFDdSG1IlWUdpUBJcEAITBQATWB0LRjdlK1glMiIHZRhrV2xCBgAfXUEGEAFXH10QUhcGXEhTF1BCAAccWkEHQVRXEmsXAxMDXA%3D%3D)
+
+【★★★★☆】**机械革命 X3**
+
+![img](https://pic4.zhimg.com/v2-18982ce062423ede02112f1c71ba4823_b.png)
+
+- 配置：i7-9750H、GTX1660Ti、8G内存、512G SSD
+- 屏幕：17.3英寸1080IPS、72%NTSC高色域
+- 参考价格：7199元-7299元  [戳我加购](https://union-click.jd.com/jdc?e=&p=AyIGZRtYEAYWD1ATWBIyEgZUGloQChIOURhcJUZNXwtEa0xHV0YXEEULWldTCQQHCllHGAdFBwtEQkQBBRxNVlQYBUkeTVxNCRNLGEF6RwtVGloUAxcPVRJfFgUiRjdZLXZwVEEwElhiQWwCV0YGHQtad1kXax0CFwVSK1gUAhMOVRJaFwEiN1UYa0NsEgZUGloUAxoCXCtbHAoQD10ZWBIAIgdRHVoQAhoOXRleFgEiAFUSa05XfAJcHF4VAxBSXRhTHFYiN1UaWhQDFw9VEl8WBSIEZStrFTIRNxd1WEVSQlBcT1JCBBADUBhaFgoVVV0dDhwGQAVXHlIdVxE3VxpaEQs%3D)
+- 144HZ版：7899元-8099元  [戳我加购](https://union-click.jd.com/jdc?e=&p=AyIGZRtYEAYWD1ATWBIyEgZUGloRBhMAXRJeJUZNXwtEa0xHV0YXEEULWldTCQQHCllHGAdFBwtEQkQBBRxNVlQYBUkeTVxNCRNLGEF6RwtVGloUAxYDVBxTHAciewBlAFVaZXQ2eBtge0gCLlsAXWBbUVkXax0CFwVSK1gUAhMOVRJaFwEiN1UYa0NsEgZUGloUAxoCXCtbHAoQD10ZWBIAIgdRHVoQAhoPVxpfEQAiAFUSa05XfAJcHF4VAxBSXRhTHFYiN1UaWhQDFgNUHFMcByIEZStrFTIRNxd1XxAEEVRREgwSBEBXUBhdFVJHDl0SDhRVFwJcElIUVkA3VxpaEQs%3D)
+
+**【★★★☆☆】神舟 战神 Z7-CT7GK** 
+
+![img](https://pic4.zhimg.com/v2-2c8c298fa9702b63577a3d5743968b63_b.jpeg)
+
+- 配置：i7-9750H、GTX1660Ti、16G内存、1T+256G SSD
+- 屏幕：15.6英寸1080IPS、72%NTSC高色域
+- 参考价格：7299元-7499元  [戳我加购](https://union-click.jd.com/jdc?e=&p=AyIGZRprFQMTBlQZWhEBEQVdKx9KWkxYZUIeUENQDEsFA1BWThgJBABAHUBZCQUdRUFGGRJDD1MdQlUQQwVKDFRXFk8jQA4SBlQaWhcDFgRWGVMlUmdeNVgJTEVyYy8dDldpVl0vZRlzch4LZRprFgMSBlwbUhQAETdlG1wlVHwHVBpaFAsSBFYcaxQyEgNSEl8WBBcHVh5SHTIVB1wrAEBsFw5SHlsUAEcPVhNSQTIiN1YrayUCIgRlWTVGARNSXElcEgJBBQUeUx0AGlQHGVoRA0FXVUteR1dCB2UZWhQGGw%3D%3D)
+
+【★★★☆☆】**机械师 F117-V**
+
+![img](https://pic4.zhimg.com/v2-1e1477f0eed4730e9dfb2ed94dc8225b_b.png)
+
+- 配置：i7-9750H、GTX1660Ti、8G内存、512G SSD
+- 屏幕：15.6英寸1080IPS、72%NTSC高色域、144Hz电竞屏
+- 参考价格：7799元-8499元  
+- 京东自营：[戳我加购](https://union-click.jd.com/jdc?e=&p=AyIGZRtSFgITBFcdWRUyEQBRG18VAxECUxNrUV1KWQorAlBHU0VeBUVNR0ZbSkdETlcNVQtHRVNSUVNLXANBRA1XB14DS10cQQVYD21XHgRSH1sRAhMEUB1TJVgQW1wYUlNld1FPQBkUYnNFHlgEVFQeC2UTWxAAFTdWGlsUCxIOVBlYJTISBGVaNRUGFgddE2sVCxoFXRNZFgUQN1UfXRQGEQVUHVMQBBE3UhtSJVlHaVASXBACEwUAE1gdC0Y3ZRhcEQIWB1QYXhMKIgRlK2sVMhE3F3VTQQFFUFVJX0ZQElBQGFwSCxdVBx8OFQtFUAUSWhBQEDdXGloRCw%3D%3D)
+- 天猫旗舰：[戳我加购](https://s.click.taobao.com/t?e=m%3D2%26s%3DTqZG5Btru2McQipKwQzePOeEDrYVVa64K7Vc7tFgwiHjf2vlNIV67sMiD5OTmk%2F4HqN3CrDUeQbHBJrNyWy%2FUhtakJZDCFtXh7luXVktjzk0fMUMsi93u30PvODyjmBsbNt%2BQ9Mb0tem2vAytx9kdM2CAyH8tg3nNbA4zcbnhmj9Umq014SDkwvzM5HMQuXQgU1uJc6qR61fIZWYTKVhqXEqY%2Bakgpmw&scm=null&pvid=null&app_pvid=59590_11.26.37.232_555_1571653425957&ptl=floorId:17741;originalFloorId:17741;app_pvid:59590_11.26.37.232_555_1571653425957&union_lens=lensId%3AOPT%401571653420%400b0b27d2_0e78_16dedd8049b_7041%4001)
+
+**8000元-9000元**
+
+**【★★★★☆】神舟 战神G8-CT7NA**
+
+![img](https://pic3.zhimg.com/v2-00ed949483d392e13a8dcab2d8be8e9e_b.png)
+
+- 配置：i7-9750H、RTX2060、8G内存、512G SSD
+- 屏幕：17.3英寸1080P、72%NTSC高色域、144Hz电竞屏
+- 参考价格：7999元-8099元  [戳我加购](https://union-click.jd.com/jdc?e=&p=AyIGZRprFQMTBlQZWhEBEAJdKx9KWkxYZUIeUENQDEsFA1BWThgJBABAHUBZCQUdRUFGGRJDD1MdQlUQQwVKDFRXFk8jQA4SBlQaWhcDFgRXHlMlVGxdBRwCSlxyUDcdM053R2ILeydLch4LZRprFgMSBlwbUhQAETdlG1wlVHwHVBpaFAMTB1EcaxQyEgNSEl8WBBcFXR5bFTIVB1wrAEBsFw5SHlsUAEcPVhNSQTIiN1YrayUCIgRlWTVCAhBSXUxYE1VFVVweXxYEGwVXH14QBkUCBh9SHVcXAWUZWhQGGw%3D%3D)
+
+**【★★★★★】惠普 暗影精灵5 2060版**
+
+![img](https://pic3.zhimg.com/v2-990585f997be751f77e8203d3df59d32_b.jpeg)
+
+- 配置：i5-9300H、RTX2060、8G内存、512G SSD
+- 屏幕：15.6英寸1080P、72%NTSC高色域、144Hz电竞屏
+- 参考价格：7799元-8099元  [戳我加购](https://union-click.jd.com/jdc?e=&p=AyIGZRtbEAMVA1ASUxAyEgZUGloRBRMAVxtSJUZNXwtEa0xHV0YXEEULWldTCQQHCllHGAdFBwtEQkQBBRxNVlQYBUkeTVxNCRNLGEF6RwtVGloUAxYAVBxZFQsiQh0eCxRZc1c1GAN9RkhsVxxcYwB5d1kXax0CFwVSK1gUAhMOVRJaFwEiN1UYa0NsEgZUGloUAxIDUStbHAoQD10ZWBIAIgdRHVoQARQPVR5cHQAiAFUSa05XfAJcHF4VAxBSXRhTHFYiN1UaWhQDFgBUHFkVCyIEZStrFTIRNxd1XBxQF1BWE1ITVxUGUE4IEwoVAFdOXBADRgACHg9AUhU3VxpaEQs%3D)
+- i7版：8499元-8799元  [戳我加购](https://union-click.jd.com/jdc?e=&p=AyIGZRtbEAMVA1ASUxAyEgZUGloXABoAXB5dJUZNXwtEa0xHV0YXEEULWldTCQQHCllHGAdFBwtEQkQBBRxNVlQYBUkeTVxNCRNLGEF6RwtVGloUAxAFXRxSEAQiZFJNX0dSdnwwQiFLBkhRD1BYD2VOZ1kXaxQyEQZVGlIVCxMFVitrFQUiUTsbWhQDEwZUG18RMhM3VR9cHAYRAVAcXhEAEjdSG1IlWUdpUBJcEAITBQATWB0LRjdlK1glMiIHZRhrV2xCAFIfXUFRFQYHTw8QUBRUBR4PHAJCAFdLWRVSEAJVE2sXAxMDXA%3D%3D)
+
+**【★★★★☆】小米游戏本 2019款**
+
+![img](https://pic3.zhimg.com/v2-2c848b3b81ae2f70b3b21cb0c96a53ee_b.png)
+
+- 配置：i7-9750H、RTX2060、16G内存、512G SSD
+- 屏幕：15.6英寸1080P、72%NTSC高色域、144Hz电竞屏
+- 参考价格：8799元-8999元  [戳我加购](https://union-click.jd.com/jdc?e=&p=AyIGZRprFQMTBlQeWBYBFAJVKx9KWkxYZUIeUENQDEsFA1BWThgJBABAHUBZCQUdRUFGGRJDD1MdQlUQQwVKDFRXFk8jQA4SBlQaWhABEQRTHlslC0pyAm8%2FQxxwcQ1cGUdbV2E2WDNWVB4LZRNbEAAVN1YaWxQLEg5UGVglMhIEZU01FQMTBlQaXhUBEDdVElMXChoFVhxZJQIWAFwTUxwLEwZRHFolBRIOZUAOewcbAFAbWhdXGgRdEg8lMhIGVBpaEAERBFMeWyUBIjdlG2sWMlBpVxoIQQFFVFUSXxAKFwIBElMcABMBXEsMFQcRAlAdCREyEAZUH1I%3D)
+
+**9000元+**
+
+【★★★★☆】**机械革命 Z2-R**
+
+![img](https://pic3.zhimg.com/v2-eb0d4acfeb09dce37379ec21dbbc0bee_b.png)
+
+- 配置：i7-9750H、RTX2060、16G内存、512GB SSD+1TB HDD
+- 屏幕：15.6英寸1080P、72%NTSC高色域、144Hz电竞屏
+- 参考价格：8999元-9299元  
+- 京东自营：[戳我加购](https://union-click.jd.com/jdc?e=&p=AyIGZRtYEAYWD1ATWBIyEgZUGloXAxYEUx9dJUZNXwtEa0xHV0YXEEULWldTCQQHCllHGAdFBwtEQkQBBRxNVlQYBUkeTVxNCRNLGEF6RwtVGloUAxAGURhdEQQiRldNBElnSw81bVxTdGFwMR4LTVIbQVkXax0CFwVSK1gUAhMOVRJaFwEiN1UYa0NsEgZUGloUAxoCXCtbHAoQD10ZWBIAIgdRHVoQBhcFVhxfFwAiAFUSa05XfAJcHF4VAxBSXRhTHFYiN1UaWhQDEAZRGF0RBCIEZStrFTIRNxd1DxBVEgMBTA9AAUEPUBNYE1JCAQdIXxwLQgRTGwlBBBU3VxpaEQs%3D)
+- 天猫旗舰：[戳我加购](https://uland.taobao.com/coupon/edetail?e=DZB4hRYHJHYNfLV8niU3RxsUty%2FyJZUC03%2FX6oiB2V7F8WVlIJ68ALCZhDBP9hN4y5FOJP2gSFX%2FjE4MyFlOrIRT%2FJROCODc3MFHnbHKe%2BkfhnGROAfBiPMe%2FGOuPS4%2F2Ke%2BJ3oNF5CYztosClyy4YdXQ4%2F694FWfD%2B1DJilXUmPKC4z47nC%2FPtZFrwffVNfqEEiZPWaiZN4em%2BkJGep%2BrMA4ZaWjBGsAhq7rbWA7zY%3D&&app_pvid=59590_11.26.37.196_497_1571546460483&ptl=floorId:17741;app_pvid:59590_11.26.37.196_497_1571546460483;tpp_pvid:&union_lens=lensId%3AOPT%401571546432%400b582948_137c_16de7778212_dd81%4001)
+
+**【★★★★☆】联想 拯救者Y7000P 2019 1660Ti版**
+
+![img](https://pic3.zhimg.com/v2-5b6f7a451510dfcbe327218282987be2_b.jpeg)
+
+- 配置：i7-9750H、GTX1660Ti、16G内存、1T SSD
+- 屏幕：15.6英寸1080P、72%NTSC高色域、144Hz电竞屏
+- 参考价格：9099元-9299元  [戳我加购](https://u.jd.com/lPLg4d)
+
+**【★★★★☆】神舟 战神TX9-CT5DK**
+
+![img](https://pic2.zhimg.com/v2-a52340aa17101d1790a6077568d6a531_b.png)
+
+- 配置：i5-9400、RTX2070、16G内存、1T HDD+256G SSD              
+- 屏幕：16.1英寸1080P、72%NTSC高色域、144Hz电竞屏
+- 参考价格：9099元-9299元  [戳我加购](https://union-click.jd.com/jdc?e=&p=AyIGZRprFQMTBlQYUhcCEw9RKx9KWkxYZUIeUENQDEsFA1BWThgJBABAHUBZCQUdRUFGGRJDD1MdQlUQQwVKDFRXFk8jQA4SBlQaWhYLEAdUE18lYwh7IFkYUEtxA1ZMCGx6dXgMQCJWRB4LZRprFgMSBlwbUhQAETdlG1wlVHwHVBpaFAMTB1EcaxQyEgNSEl8WBBUGUh1SHTIVB1wrAEBsFw5SHlsUAEcPVhNSQTIiN1YrayUCIgRlWTUQA0dUXB9bElETVF0eU0YKQlIFTwkXB0UGVEkIFAsVBWUZWhQGGw%3D%3D)
+
+**【★★★★☆】机械革命 X9Ti-R 2060版**
+
+![img](https://pic3.zhimg.com/v2-3464d9946ad82a1e0b8cd14de50c0cde_b.png)
+
+- 配置：i7-9750H、RTX2060、16G内存、512G SSD+1T HDD
+- 屏幕：17.3英寸1080P、72%NTSC高色域、144Hz电竞屏
+- 参考价格：9299元-9499元  
+- 京东自营：[戳我加购](https://union-click.jd.com/jdc?e=&p=AyIGZRtYEAYWD1ATWBIyEgZUGloQChIOUR5YJUZNXwtEa0xHV0YXEEULWldTCQQHCllHGAdFBwtEQkQBBRxNVlQYBUkeTVxNCRNLGEF6RwtVGloUAxcPVRJfEAEiGQhMXE8Gb3UwHSUdehNaAn84cwMQQVkXaxQyEQZVGlIVCxMFVitrFQUiUTsbWhQDEwZUE14cMhM3VR9cHAYRAVIZXxcKFzdSG1IlWUdpUBJcEAITBQATWB0LRjdlK1glMiIHZRhrV2wUAAUZWEZVFwYFElwQB0IOBU9dEgUVUAFMUhIKR1RTGGsXAxMDXA%3D%3D)
+- 天猫旗舰：[戳我加购](https://uland.taobao.com/coupon/edetail?e=DhrNUDvV6PMNfLV8niU3RxsUty%2FyJZUC03%2FX6oiB2V7F8WVlIJ68ALCZhDBP9hN4y5FOJP2gSFX%2FjE4MyFlOrJLPOPi8%2FvVXjSsDEwaP11UfhnGROAfBiPMe%2FGOuPS4%2F2Ke%2BJ3oNF5CYztosClyy4YdXQ4%2F694FWU%2FQolBL%2F5Wqp2jXVqwgwsvtZFrwffVNfqEEiZPWaiZN4em%2BkJGep%2BrMA4ZaWjBGsAhq7rbWA7zY%3D&&app_pvid=59590_11.26.37.177_495_1571653659389&ptl=floorId:17741;app_pvid:59590_11.26.37.177_495_1571653659389;tpp_pvid:&union_lens=lensId%3AOPT%401571653653%400b1a25e7_0e5b_16deddb9569_21d4%4001)
+
+【★★★★☆】**神舟 战神Z9-CT7PK**
+
+![img](https://pic3.zhimg.com/v2-3400ed14b7b20cdf2cc5c9174f44404e_b.png)
+
+- 配置：i7-9750H、RTX2070、16G内存、256GB SSD+1TB HDD
+- 屏幕：15.6英寸1080P、72%NTSC高色域、144Hz电竞屏
+- 参考价格：9499元-9799元  [戳我加购](https://union-click.jd.com/jdc?e=&p=AyIGZRprFQMTBlQfWRQCFAZWKx9KWkxYZUIeUENQDEsFA1BWThgJBABAHUBZCQUdRUFGGRJDD1MdQlUQQwVKDFRXFk8jQA4SBlQaWhEAEwdTGlglaXtDNE4aS0dxRgVSEhJqUwcwXytqch4LZRNbEAAVN1YaWxQLEg5UGVglMhIEZU01FQMTBlQaWhUGFTdVElMXChoFVhxZJQIWAVQeXxECEQRWG1wlBRIOZUAOewcbAFAbWhdXGgRdEg8lMhIGVBpaEQATB1MaWCUBIjdlG2sWMlBpXR1TEFcUVFcTD0ILFwABHgtCAkYBUU8PRwMbUAAZDxQyEAZUH1I%3D)
+
+【★★★★☆】**神舟 战神G9-CT7PK**
+
+![img](https://pic3.zhimg.com/v2-3400ed14b7b20cdf2cc5c9174f44404e_b.png)
+
+- 配置：i7-9750H、RTX2070、16G内存、256GB SSD+1TB HDD
+- 屏幕：17.3英寸1080P、72%NTSC高色域、144Hz电竞屏
+- 参考价格：9999元-10499元  [戳我加购](https://union-click.jd.com/jdc?e=&p=AyIGZRprFQMTBlQZWBECEw9VKx9KWkxYZUIeUENQDEsFA1BWThgJBABAHUBZCQUdRUFGGRJDD1MdQlUQQwVKDFRXFk8jQA4SBlQaWhcBFgdUE1slZGpVDhpcEFpweCNbOxZ%2BFnIgegdPVB4LZRNbEAAVN1YaWxQLEg5UGVglMhIEZU01FQMTBlQaWhUGFTdVElMXChoFVhxZJQIWAVQeXxEAFgdVH1wlBRIOZUAOewcbAFAbWhdXGgRdEg8lMhIGVBpaFwEWB1QTWyUBIjdlG2sWMlBpBRwMFwoaUgJLUxBRFwZTSFISBREFBktTEwIXBAYfWkYyEAZUH1I%3D)
+
+【★★★★☆】**惠普 暗影精灵5 Air**
+
+![img](https://pic2.zhimg.com/v2-358dced3a7f0a3a9130234140bdd3089_b.png)
+
+- 配置：i7-9750H、RTX2060、16G内存、512G SSD
+- 屏幕：15.6英寸1080P、72%NTSC高色域
+- 参考价格：9999元-10299元  [戳我加购](https://union-click.jd.com/jdc?e=&p=AyIGZRtbEAMVA1ASUxAyEgZUGloRBBYDUBNaJUZNXwtEa0xHV0YXEEULWldTCQQHCllHGAdFBwtEQkQBBRxNVlQYBUkeTVxNCRNLGEF6RwtVGloUAxYBUR9eHQMiXgMbA05YEmQ1bxN1cXQdK3MvHGlMUVkXax0CFwVSK1gUAhMOVRJaFwEiN1UYa0NsEgZUGloUAxIDUStbHAoQD10ZWBIAIgdRHVoQARsCXRpfEgYiAFUSa05XfAJcHF4VAxBSXRhTHFYiN1UaWhQDFgFRH14dAyIEZStrFTIRNxd1XRZXEgcATFsWVkcPUBsIFlFAU1AcCBQFEAZcSVgdBxE3VxpaEQs%3D)
+
+【★★★★☆】**机械革命 X9Ti-R 2070版**
+
+![img](https://pic3.zhimg.com/v2-84dd3a8b4cdb9d68ccf6c17b719d1bce_b.png)
+
+- 配置：i7-9750H、RTX2070、16G内存、512G SSD+2T HDD
+- 屏幕：17.3英寸1080P、72%NTSC高色域、144Hz电竞屏
+- 参考价格：11999元-12499元  [戳我加购](https://union-click.jd.com/jdc?e=&p=AyIGZRtYEAYWD1ATWBIyEgZUGloQChIOURpaJUZNXwtEa0xHV0YXEEULWldTCQQHCllHGAdFBwtEQkQBBRxNVlQYBUkeTVxNCRNLGEF6RwtVGloUAxcPVRJfFAMifyZEBEJCdAIwG1xuVQxhARIlQ1BMZ1kXax0CFwVSK1gUAhMOVRJaFwEiN1UYa0NsEgZUGloUAxoCXCtbHAoQD10ZWBIAIgdRHVoQBhUOVBtcEwUiAFUSa05XfAJcHF4VAxBSXRhTHFYiN1UaWhQDFw9VEl8UAyIEZStrFTIRNxd1X0ABGlUASw9GVxcBUB9SQFEaU1wfCUFXQgJQSFwSBBM3VxpaEQs%3D)
+
+------
+
+## **👉全能**本推荐
+
+**4000元-5000元**
+
+**机械革命 S1 Pro**
+
+![img](https://pic3.zhimg.com/v2-e5843a6a9997b08f45b92a5c0d86790a_b.png)
+
+重：1.50kg，厚：18.40mm，电池：50whr
+
+- 配置：i5-8265U、MX250、8G内存、512G SSD 
+- 屏幕：14英寸1080P、45%NTSC低色域
+- 参考价格：3999元  
+- 京东自营：[戳我加购](https://union-click.jd.com/jdc?e=&p=AyIGZRtYEAYWD1ATWBIyEgZUGloXCxsFUB9TJUZNXwtEa0xHV0YXEEULWldTCQQHCllHGAdFBwtEQkQBBRxNVlQYBUkeTVxNCRNLGEF6RwtVGloUAxAOXBleEQoifg57UnxcUmE2fAdHZkB4IUU7VHRmd1kXax0CFwVSK1gUAhMOVRJaFwEiN1UYa0NsEgZUGloUAxoCXCtbHAoQD10ZWBIAIgdRHFIdBRsGVhpZFwUiAFUSa05XfAJcHF4VAxBSXRhTHFYiN1UaWhQDEA5cGV4RCiIEZStrFTIRNxd1WUdSGwACHl4WAhJSUBJeFVJHD1USXBECE1AFEgwXAhA3VxpaEQs%3D)
+- 天猫旗舰：[戳我加购](https://uland.taobao.com/coupon/edetail?e=f1QDM5caZ%2FMNfLV8niU3RxsUty%2FyJZUC03%2FX6oiB2V7F8WVlIJ68ALCZhDBP9hN4y5FOJP2gSFX%2FjE4MyFlOrMRxLI0IkeBzJQUDInFcid0fhnGROAfBiPMe%2FGOuPS4%2F2Ke%2BJ3oNF5CYztosClyy4YdXQ4%2F694FWTu%2FLbF0w1xgxzIeNNTtd%2FwrOKhGJQP73Ru7Cinya%2FUDyJttnFVdZHvaSCwqGfvx%2Ffjh37OZy0Bg%3D&&app_pvid=59590_11.15.104.24_548_1571654092950&ptl=floorId:17741;app_pvid:59590_11.15.104.24_548_1571654092950;tpp_pvid:&union_lens=lensId%3AOPT%401571654086%400b582a67_0e67_16dede22f31_39b4%4001)
+
+**神舟 精盾U65A畅玩版**
+
+![img](https://pic3.zhimg.com/v2-e3c8498f82f8f08d339e3a5344b8f262_b.png)
+
+裸重：1.90kg，厚度：19.80mm
+
+- 配置：i5-8265U、GTX1050MQ、8G内存、512G SSD 
+- 屏幕：15.6英寸1080P、45%NTSC低色域
+- 参考价格：4099元-4299元  [戳我加购](https://union-click.jd.com/jdc?e=&p=AyIGZRprFQMTBlQeWxIBGgRQKx9KWkxYZUIeUENQDEsFA1BWThgJBABAHUBZCQUdRUFGGRJDD1MdQlUQQwVKDFRXFk8jQA4SBlQaWhACFQRdGF4lW0l7T0ATZWV3UCdMWRV3UAYrSzl3VB4LZRNbEAAVN1YaWxQLEg5UGVglMhIEZU01FQMTBlQaWhUGFTdVElMXChoFVhxZJQIWAFwTXBwBGwZXHlslBRIOZUAOewcbAFAbWhdXGgRdEg8lMhIGVBpaEAIVBF0YXiUBIjdlG2sWMlBpVRlZHVdHB1MaXEBXFwNRTAsSVhpQVR5bFVAQAgUbWRcyEAZUH1I%3D)
+
+**RedmiBook 14 增强版**
+
+![img](https://pic3.zhimg.com/v2-d7d64608070f394d6d5bf7185f803fca_b.png)
+
+重：1.50kg，厚：17.95mm，电池：46whr
+
+- 配置：i5-10210U、MX250、8G内存、512G SSD 
+- 屏幕：14英寸1080P、45%NTSC低色域
+- 参考价格：4299元-4499元  [戳我加购](https://union-click.jd.com/jdc?e=&p=AyIGZRprFQMTBlQeXxQLGgRTKx9KWkxYZUIeUENQDEsFA1BWThgJBABAHUBZCQUdRUFGGRJDD1MdQlUQQwVKDFRXFk8jQA4SBlQaWhAGEw5dGF0lBRNwFB4ARldwcjNMHndyaGcDegxWYh4LZRNbEAAVN1YaWxQLEg5UGVglMhIEZU01FQMTBlQaXhUBEDdVElMXChoFVhxZJQIWAFwTXBwGEg5UHVklBRIOZUAOewcbAFAbWhdXGgRdEg8lMhIGVBpaEAYTDl0YXSUBIjdlG2sWMlBpBR8PElFAUAVPDxFVFwcCGFIVUkIPBhJbEQZAUFcaCUEyEAZUH1I%3D)
+
+**联想 小新Pro13 标压锐龙版**
+
+![img](https://pic1.zhimg.com/v2-d573b2b94eabec095acfbe7c683bcf6c_b.png)
+
+裸重：1.28kg，电池：56whr
+
+- 配置：R5-3550H、16G内存、512G SSD
+- 屏幕：13.3英寸2.5K、100%sRGB高色域
+- 优点：性价比高、高色域2.5K屏、16:10的屏幕比例，适合文字工作
+- 缺点：新机初售，时常缺货、无独显，游戏性能一般、内存无法扩展、接口偏少、方向键不友好
+- 参考价格：4499元  
+- 京东自营：[戳我加购](https://union-click.jd.com/jdc?e=&p=AyIGZRprFQMTBlQfWxMCFwBVKx9KWkxYZUIeUENQDEsFA1BWThgJBABAHUBZCQUdRUFGGRJDD1MdQlUQQwVKDFRXFk8jQA4SBlQaWhECFAdQHFslfmluNmQjTEZxbgFzBmZUS2cCHjNTYh4LZRNbEAAVN1YaWxQLEg5UGVglMhIEZU01FQMTBlQaWhUGFDdVElMXChoFVhxZJQIWAVQTXRQKFQ5SHVslBRIOZUAOewcbAFAbWhdXGgRdEg8lMhIGVBpaEQIUB1AcWyUBIjdlG2sWMlBpXE9bQgAaU1xLWUBWFwRdS1ISBEUPBxNeHVFAUwUfUx0yEAZUH1I%3D)
+- 天猫旗舰：[戳我加购](https://s.click.taobao.com/t?e=m%3D2%26s%3D3zr46si3vUkcQipKwQzePOeEDrYVVa64K7Vc7tFgwiHjf2vlNIV67pme3IfcAogQJdux29CqXYnHBJrNyWy%2FUhtakJZDCFtXh7luXVktjzk0fMUMsi93u30PvODyjmBsbNt%2BQ9Mb0tem2vAytx9kdDVH79XYwd4F0a3u46RXbteREjEiL0p2TupL9cJfNfu1JzxLRjZG4Fqa0HzFjUsf4cYl7w3%2FA2kb&scm=null&pvid=null&app_pvid=59590_11.26.37.225_527_1571885094222&ptl=floorId:17741;originalFloorId:17741;app_pvid:59590_11.26.37.225_527_1571885094222&union_lens=lensId%3AOPT%401571885006%400b1a25df_0eb0_16dfba5bee0_80a1%4001)
+
+**惠普 战66 二代**
+
+![img](https://pic3.zhimg.com/v2-c0742da250678e04c2e0026ea1b37812_b.png)
+
+裸重：1.60kg，厚度：17.95mm
+
+- 配置：i5-8265U、MX250、8G内存、256G SSD 
+- 屏幕：14英寸1080P、45%NTSC低色域
+- 参考价格：4599元-4999元  [戳我加购](https://union-click.jd.com/jdc?e=&p=AyIGZRtbEAMVA1ASUxAyEgZUGloWBBIBVRNfJUZNXwtEa0xHV0YXEEULWldTCQQHCllHGAdFBwtEQkQBBRxNVlQYBUkeTVxNCRNLGEF6RwtVGloUAxEBVR1bHQYiXTN6ABBfZl4wWgMVQgx8Dm85dF4bQVkXax0CFwVSK1gUAhMOVRJaFwEiN1UYa0NsEgZUGloUAxIDUStbHAoQD10ZWBIAIgdRHVoXBBUFUhpdFAsiAFUSa05XfAJcHF4VAxBSXRhTHFYiN1UaWhQDEQFVHVsdBiIEZStrFTIRNxd1XUILEARXGF1CVhEGUBNSRwpBAFAcDEIFRg5QSVgQA0E3VxpaEQs%3D)
+
+**5000元-6000元**
+
+**华为 MateBook 13 第三方Linux版**
+
+![img](https://pic3.zhimg.com/v2-d95d8e3e1e734645ae759de70efb9102_b.png)
+
+重：1.28kg，厚：14.90mm，电池：42wh
+
+- 配置：i5-8265U、MX250、8G内存、512G SSD
+- 屏幕：13英寸2K、100%sRGB高色域
+- 优点：高色域2K屏幕、窄边框、3:2的屏幕比例，适合文字工作
+- 缺点：内存无法扩展、机身隔热一般、接口少、Linux系统（可重装为Win系统）
+- 参考价格：5399元  [戳我加购](https://union-click.jd.com/jdc?e=&p=AyIGZRprFQMTBlQSXh0DFgdWKx9KWkxYZUIeUENQDEsFA1BWThgJBABAHUBZCQUdRUFGGRJDD1MdQlUQQwVKDFRXFk8jQA4SBlQaWhwHGgZRG1glQmd1NkFcS0NyZR1DHHEFSg5SelhpVB4LZRNbEAAVN1YaWxQLEg5UGVglMhIEZU01FQMTBlQaXhYGGjdVElMXChoFVhxZJQIWAVQZXRMFFwRTGFklBRIOZUAOewcbAFAbWhdXGgRdEg8lMhIGVBpaHAcaBlEbWCUBIjdlG2sWMlBpURxaRQFCVAVPXUcFFwYBS1MdUkdTBRMPE1BABFEfCBwyEAZUH1I%3D)
+
+**荣耀 MagicBook Pro 第三方Linux版**
+
+![img](https://pic2.zhimg.com/v2-4b5a66f661650e2055675254f085fe05_b.png)
+
+重：1.70kg，厚：16.90mm，电池：56wh
+
+- 配置：i5-8265U、MX250、8G内存、512G SSD 
+- 屏幕：16.1英寸1080P、100%sRGB高色域
+- 参考价格：5199元  
+- 京东自营：[戳我加购](https://union-click.jd.com/jdc?e=&p=AyIGZRprFQMTBlQSUhcFEgVUKx9KWkxYZUIeUENQDEsFA1BWThgJBABAHUBZCQUdRUFGGRJDD1MdQlUQQwVKDFRXFk8jQA4SBlQaWhwLEABVGVolQAwDHE0GUllwUR1kWR1BFE8LWz8RYh4LZRNbEAAVN1YaWxQLEg5UGVglMhIEZU01FQMTBlQaWh0DFzdVElMXChoFVhxZJQIWAVUaXxQDEgdWHFolBRIOZUAOewcbAFAbWhdXGgRdEg8lMhIGVBpaHAsQAFUZWiUBIjdlG2sWMlBpAh9eFFEQU11IDxFSF1RVHlIUAUUDUBMJF1AbBwEbWkAyEAZUH1I%3D)
+- 天猫旗舰：[戳我加购](https://s.click.taobao.com/t?e=m%3D2%26s%3DT%2FcB3mBg%2FKocQipKwQzePOeEDrYVVa64K7Vc7tFgwiHjf2vlNIV67sYI2k3WmoliWiFs%2FjHb%2BcjHBJrNyWy%2FUhtakJZDCFtXh7luXVktjzk0fMUMsi93u30PvODyjmBsbNt%2BQ9Mb0tem2vAytx9kdMRc6wYkxc2rdCNGxudn8bf9Umq014SDk46%2BSOeTfXnP13cEdSlh0kpkWPWi5vhUmsYOae24fhW0&scm=null&pvid=null&app_pvid=59590_11.8.51.170_542_1571713513552&ptl=floorId:17741;originalFloorId:17741;app_pvid:59590_11.8.51.170_542_1571713513552&union_lens=lensId%3AOPT%401571713506%400b0af1e2_0e97_16df16cdc8e_5130%4001)
+
+**惠普 战66 二代 高色域**
+
+![img](https://pic1.zhimg.com/v2-4196c2e316d0970f59f30951ef2edd14_b.png)
+
+裸重：1.60kg，厚度：17.95mm
+
+- 配置：i5-8265U、MX250、8G内存、512G SSD 
+- 屏幕：14英寸1080P、100%sRGB高色域
+- 参考价格：5499元-5699元  [戳我加购](https://union-click.jd.com/jdc?e=&p=AyIGZRtbEAMVA1ASUxAyEgZUGloRBBcCVR1SJUZNXwtEa0xHV0YXEEULWldTCQQHCllHGAdFBwtEQkQBBRxNVlQYBUkeTVxNCRNLGEF6RwtVGloUAxYBUB5bEwsiVFxTXnwGcRk3TR9%2BRUl8XX0uQlFbd1kXaxQyEQZVGlIVCxMFVitrFQUiUTsbWhQDEwZUG18RMhM3VR9cHAYRAV0aXxEKGjdSG1IlWUdpUBJcEAITBQATWB0LRjdlK1glMiIHZRhrV2xHA1YdXxUDFAAASVgQBxVQXBtYQVcRUlJLDEZQEAICH2sXAxMDXA%3D%3D)
+
+**华为 MateBook14 第三方Linux版**
+
+![img](https://pic1.zhimg.com/v2-b8cb89509a502eb18990d34611b512f4_b.jpeg)
+
+重：1.53kg，厚：15.90mm，电池：57.4wh
+
+- 配置：i5-8265U、MX250、8G内存、512G SSD
+- 屏幕：14英寸2K、100%sRGB高色域
+- 优点：高色域2K屏幕、窄边框、3:2的屏幕比例，适合文字工作
+- 缺点：内存无法扩展、机身隔热一般、接口少、Linux系统（可重装为Win系统）
+- 参考价格：5699元  [戳我加购](https://union-click.jd.com/jdc?e=&p=AyIGZRprFQMTBlQeXRECEwVTKx9KWkxYZUIeUENQDEsFA1BWThgJBABAHUBZCQUdRUFGGRJDD1MdQlUQQwVKDFRXFk8jQA4SBlQaWhAEFgdUGV0lVnQAHGM%2BXAN3ADdvGUILZno1WyBTYh4LZRNbEAAVN1YaWxQLEg5UGVglMhIEZU01FQMTBlQaXhYGGjdVElMXChoFVhxZJQIWAVQbXxMBEwNXElMlBRIOZUAOewcbAFAbWhdXGgRdEg8lMhIGVBpaEAQWB1QZXSUBIjdlG2sWMlBpAhpZRwAQA1UeCBYHFwICE1NFVxoCVxtZQgZBAFcZWkEyEAZUH1I%3D)
+
+**戴尔 灵越7000（7591） i5版**
+
+![img](https://pic1.zhimg.com/v2-52575f735b7df52192d786d6b2c95980_b.png)
+
+重：1.87kg，厚：17.94mm，电池：56wh
+
+- 配置：i5-9300H、GTX1050、8G内存、 256G SSD
+- 屏幕：15.6英寸1080P、72%NTSC高色域
+- 优点：高色域屏幕、性价比高、内存和硬盘均支持扩展
+- 缺点：散热性能欠佳
+- 参考价格：5799元-6099元  [戳我加购](https://union-click.jd.com/jdc?e=&p=AyIGZRtYEQQaA10bXhIyEgZUGloRBREDUBtYJUZNXwtEa0xHV0YXEEULWldTCQQHCllHGAdFBwtEQkQBBRxNVlQYBUkeTVxNCRNLGEF6RwtVGloUAxYAVh9eFQEiWS5HK3JLdVswfSVHXHpFNWAHRXpOUVkXaxQyEQZVGlIVCxMFVitrFQUiUTsbWhQDEwZUG14UMhM3VR9cHAYRDlQcUhYAGzdSG1IlWUdpUBJcEAITBQATWB0LRjdlK1glMiIHZRhrV2xCAAYYWBBVEQFWHlgQURpTBRpTQQQaA1UfU0FVEFBQH2sXAxMDXA%3D%3D)
+- i7版：6799元-7199元 [戳我加购](https://union-click.jd.com/jdc?e=&p=AyIGZRtYEQQaA10bXhIyEgZUGloRBREDVxNYJUZNXwtEa0xHV0YXEEULWldTCQQHCllHGAdFBwtEQkQBBRxNVlQYBUkeTVxNCRNLGEF6RwtVGloUAxYAVh9ZHQEiBBBhJBNbEHk3Tw9HUmhDDGYebmtqd1kXaxQyEQZVGlIVCxMFVitrFQUiUTsbWhQDEwZUG14UMhM3VR9cHAYRDlQTWREAGzdSG1IlWUdpUBJcEAITBQATWB0LRjdlK1glMiIHZRhrV2xCAVcZDkAARgRUSVMQAUEBBRsOHAIRDldLWRFVEgNQTmsXAxMDXA%3D%3D)
+
+**6000元-7000元**
+
+**联想 小新Air14**
+
+![img](https://pic3.zhimg.com/v2-9a0e2bdb3aa5b4fe53603d235585a2fe_b.png)
+
+重：1.50kg，厚：15.90mm，电池：50wh
+
+- 配置：i7-10510U、MX250、12G内存、 512G SSD
+- 屏幕：14英寸1080P、72%NTSC高色域
+- 优点：高色域屏幕、性价比不错、内存和硬盘均支持扩展
+- 参考价格：5999元  [戳我加购](https://union-click.jd.com/jdc?e=&p=AyIGZRprFQMTBlQdXxcKEgRUKx9KWkxYZUIeUENQDEsFA1BWThgJBABAHUBZCQUdRUFGGRJDD1MdQlUQQwVKDFRXFk8jQA4SBlQaWhMGEA9VGFolfE1lEGlbC2NwQw1fK0twbl0haycQYh4LZRNbEAAVN1YaWxQLEg5UGVglMhIEZU01FQMTBlQaWhUGFDdVElMXChoFVhxZJQIWAF0TWB0EEgZSGlglBRIOZUAOewcbAFAbWhdXGgRdEg8lMhIGVBpaEwYQD1UYWiUBIjdlG2sWMlBpBx5aEwIVB1VPDxNXFwYAGFMXBxoAXE5fHQYWAgUbDxAyEAZUH1I%3D)
+- i5版（天猫）：5499元  [戳我加购](https://s.click.taobao.com/t?e=m%3D2%26s%3DR9MoOm1RXwAcQipKwQzePOeEDrYVVa64K7Vc7tFgwiHjf2vlNIV67rCyOOeENXuSxeoNewupcd7HBJrNyWy%2FUhtakJZDCFtXh7luXVktjzk0fMUMsi93u30PvODyjmBsbNt%2BQ9Mb0tem2vAytx9kdDVH79XYwd4F0a3u46RXbteREjEiL0p2TupL9cJfNfu1SHQbJSV7gNMAsZj%2BgKcbtsYl7w3%2FA2kb&scm=null&pvid=null&app_pvid=59590_11.26.37.165_538_1571815471292&ptl=floorId:17741;originalFloorId:17741;app_pvid:59590_11.26.37.165_538_1571815471292&union_lens=lensId%3AOPT%401571815460%400b015dde_0e33_16df7808e58_e725%4001)
+
+**联想 小新Pro13 i5独显版**
+
+![img](https://pic1.zhimg.com/v2-b0776e5aeabc117386ffda776ea9bbc4_b.png)
+
+裸重：1.28kg，电池：56whr
+
+- 配置：i5-10210U、MX250、16G内存、512G SSD
+- 屏幕：13.3英寸2.5K、100%sRGB高色域
+- 优点：高色域2.5K屏、16:10的屏幕比例，适合文字工作
+- 缺点：新机初售，时常缺货、接口偏少、方向键不友好
+- 参考价格：6299元  [戳我加购](https://union-click.jd.com/jdc?e=&p=AyIGZRprFQMTBlQeUhACGw5XKx9KWkxYZUIeUENQDEsFA1BWThgJBABAHUBZCQUdRUFGGRJDD1MdQlUQQwVKDFRXFk8jQA4SBlQaWhALFwdcElklS2tFUBhed0tyR1ZJB2cKS3UvWQFvRB4LZRNbEAAVN1YaWxQLEg5UGVglMhIEZU01FQMTBlQaWhUGFDdVElMXChoFVhxZJQIWAF0SXBMKEQRUGFklBRIOZUAOewcbAFAbWhdXGgRdEg8lMhIGVBpaEAsXB1wSWSUBIjdlG2sWMlBpB05fQVcUBgASU0EKF1JVG1IXC0JTVkwJHAAWVwIaXEcyEAZUH1I%3D)
+- i7独显版：6999元  [戳我加购](https://union-click.jd.com/jdc?e=&p=AyIGZRprFQMTBlQSXxcGGg5WKx9KWkxYZUIeUENQDEsFA1BWThgJBABAHUBZCQUdRUFGGRJDD1MdQlUQQwVKDFRXFk8jQA4SBlQaWhwGEANdElglCnt3E25eSgRxAyMBI28GE05WQgtdYh4LZRNbEAAVN1YaWxQLEg5UGVglMhIEZU01FQMTBlQaWhUGFDdVElMXChoFVhxZJQIWAVQZXRIKEQ9THl4lBRIOZUAOewcbAFAbWhdXGgRdEg8lMhIGVBpaHAYQA10SWCUBIjdlG2sWMlBpUB4OFQURVAAfDBUFF1QFGFJHUhACAhgLRVcbD1AaDhwyEAZUH1I%3D)
+
+**小米 笔记本Pro15 GTX版**
+
+![img](https://pic1.zhimg.com/v2-c7e1b8023e59aa35d03513ed047ebe64_b.png)
+
+厚度：15.9mm，电池：60whr
+
+- 配置：i5-8250U、GTX1050、8G内存、1T SSD
+- 屏幕：15.6英寸1080P、72%NTSC高色域
+- 参考价格：6499元-6799元  [戳我加购](https://union-click.jd.com/jdc?e=&p=AyIGZRprFQMTBlQfWBABEwRXKx9KWkxYZUIeUENQDEsFA1BWThgJBABAHUBZCQUdRUFGGRJDD1MdQlUQQwVKDFRXFk8jQA4SBlQaWhEBFwRUGFkleFlRFWwNXEVydwlpOEEADHcpf15jVB4LZRNbEAAVN1YaWxQLEg5UGVglMhIEZU01FQMTBlQaXhUBEDdVElMXChoFVhxZJQIWAVUTUhQEFgFcE14lBRIOZUAOewcbAFAbWhdXGgRdEg8lMhIGVBpaEQEXBFQYWSUBIjdlG2sWMlBpXRpbRgdCVwESUhJSF1IFEggXUEEDAB1eE1ZCBFAcXBIyEAZUH1I%3D)
+- i7 16G内存版：7499元-7999元  [戳我加购](https://union-click.jd.com/jdc?e=&p=AyIGZRprFQMTBlQTWBwLEANWKx9KWkxYZUIeUENQDEsFA1BWThgJBABAHUBZCQUdRUFGGRJDD1MdQlUQQwVKDFRXFk8jQA4SBlQaWh0BGw5XH1glAFdmKE0vRnl3Qh1BUh14S2csRjBHVB4LZRprFgMSBlwbUhQAETdlG1wlVHwHVBpaFAMXB1YZaxQyEgNTG1McAxsEXR1eETIVB1wrAEBsFw5SHlsUAEcPVhNSQTIiN1YrayUCIgRlWTUVCxYFVBJfQAEbB1YeWBNQQQEBSV1BBBdTBhxbEgASD2UZWhQGGw%3D%3D)
+
+**7000元-8000元**
+
+**联想 Y9000X i5版**
+
+![img](https://pic4.zhimg.com/v2-12a1a566a6c7218fa5e7d7fbc5011bbf_b.png)
+
+重：1.70kg，厚：14.90mm，电池：60whr
+
+- 配置：i5-9300H、16G内存、512GSSD
+- 屏幕：15.6英寸1080P、72%NTSC高色域
+- 优点：高色域屏幕、标压处理器，性能不错
+- 缺点：无独显，游戏性能一般、内存无法扩展
+- 参考价格：6999元  
+- 京东自营：[戳我加购](https://union-click.jd.com/jdc?e=&p=AyIGZRprFQMTBlQTWhwAEgNQKx9KWkxYZUIeUENQDEsFA1BWThgJBABAHUBZCQUdRUFGGRJDD1MdQlUQQwVKDFRXFk8jQA4SBlQaWh0DGwVVH14lHFtmDQUTfEtwByN5E28BFnEpGyB0ch4LZRNbEAAVN1YaWxQLEg5UGVglMhIEZU01FQMTBlQaWhUGFDdVElMXChoFVhxZJQIWAVQTXRULEQ5SGlMlBRIOZUAOewcbAFAbWhdXGgRdEg8lMhIGVBpaHQMbBVUfXiUBIjdlG2sWMlBpVx5bFVBABVYSC0FRF1NTTwhFUEUPURMIRgdABFQYXxUyEAZUH1I%3D)
+- 天猫旗舰：[戳我加购](https://s.click.taobao.com/t?e=m%3D2%26s%3DJvV3sjya2XkcQipKwQzePOeEDrYVVa64K7Vc7tFgwiHjf2vlNIV67k%2FO02DFeUoMrbXOwzJUOFDHBJrNyWy%2FUhtakJZDCFtXh7luXVktjzk0fMUMsi93u30PvODyjmBsbNt%2BQ9Mb0tem2vAytx9kdDVH79XYwd4F0a3u46RXbteREjEiL0p2TupL9cJfNfu17ws6LZ2xuSke0uk5%2F7dGVMYl7w3%2FA2kb&scm=null&pvid=null&app_pvid=59590_11.26.37.215_552_1571892504058&ptl=floorId:17741;originalFloorId:17741;app_pvid:59590_11.26.37.215_552_1571892504058&union_lens=lensId%3AOPT%401571892493%400b1a25b7_0f21_16dfc17fc18_b3d0%4001)
+
+**戴尔 灵越7590 i5版**
+
+![img](https://pic2.zhimg.com/v2-36650d906b79f6440fbf651fbbaca655_b.png)
+
+裸重：1.59kg，厚度：17.40mm
+
+- 配置：i5-9300H、GTX1650、8G内存、512G SSD
+- 屏幕：15.6英寸1080P、100%sRGB高色域
+- 优点：高色域屏幕、性价比高
+- 缺点：散热性能一般
+- 参考价格：7499元  [戳我加购](https://union-click.jd.com/jdc?e=&p=AyIGZRtcEgQbAVcbWBwyFwFVG1kRCxYBVBxrUV1KWQorAlBHU0VeBUVNR0ZbSkdETlcNVQtHRVNSUVNLXANBRA1XB14DS10cQQVYD21XHgJTG1sXBhsDUxpcJUJJYhVPI15DcGMdelx3fHJvV1M6ElQeC2UaaxYDEgZcG1IUABE3ZRtcJUN8B1AZWhwDIgZlG18SCxYEXBtYFQsQAGUcWxwySVI7HlISBxIGV05TFgobU2UraxYyIjdVK1glQHwHXRpSFFYTVF0TXBcHRwIGE1oQVxsEVk9ZFwYXVVcfDiUAEwZREg%3D%3D)
+- i7版：8199元  [戳我加购](https://union-click.jd.com/jdc?e=&p=AyIGZRtcEgQbAVcbWBwyFwFVG1kRCxYBVB5rUV1KWQorAlBHU0VeBUVNR0ZbSkdETlcNVQtHRVNSUVNLXANBRA1XB14DS10cQQVYD21XHgJTG1sXBhsDUxpeJRxHXV1kKF5dcg4NeTAQYm4DCGsMT2IeC2UaaxYDEgZcG1IUABE3ZRtcJUN8B1AZWhwDIgZlG18SCxYEXBteEwYVD2UcWxwySVI7HlISBxIGV05TFgobU2UraxYyIjdVK1glQHwEUx1eHAcbBQZIU0YHFwFVS1sTA0EOVU4JFFBHBF1LCCUAEwZREg%3D%3D)
+
+**8000元+**
+
+**联想 ThinkPad T490**
+
+![img](https://pic3.zhimg.com/v2-e18d01f258c84304dcf0ec95f843c36a_b.png)
+
+裸重：1.46kg，厚度：17.90mm
+
+- 配置：i5-8265U、MX250、8G内存、512G SSD
+- 屏幕：14英寸1080P
+- 参考价格：7999元-8499元  [戳我加购](https://union-click.jd.com/jdc?e=&p=AyIGZRprFQMTBlQeXxQCFAFWKx9KWkxYZUIeUENQDEsFA1BWThgJBABAHUBZCQUdRUFGGRJDD1MdQlUQQwVKDFRXFk8jQA4SBlQaWhAGEwdTHVglUntMNngtUV9yYCNAGFVXdXVXfwBgRB4LZRNbEAAVN1YaWxQLEg5UGVglMhIEZU01FQMTBlQaWhUGGzdVElMXChoFVhxZJQIWAF0fXR0DGwZcHV4lBRIOZUAOewcbAFAbWhdXGgRdEg8lMhIGVBpaEAYTB1MdWCUBIjdlG2sWMlBpXRJcHQUQAlIeCxAHFwECG1IQBxBTUR5bHAoTAFMSDhYyEAZUH1I%3D)
+
+**联想 Y9000X i7版**
+
+![img](https://pic4.zhimg.com/v2-12a1a566a6c7218fa5e7d7fbc5011bbf_b.png)
+
+重：1.70kg，厚：14.90mm，电池：60whr
+
+- 配置：i7-9750H、16G内存、1T SSD
+- 屏幕：15.6英寸1080P、72%NTSC高色域
+- 优点：高色域屏幕、标压处理器，性能不错
+- 缺点：无独显，游戏性能一般、内存无法扩展
+- 参考价格：8299元  
+- 京东自营：[戳我加购](https://union-click.jd.com/jdc?e=&p=AyIGZRprFQMTBlQTWhwAEgNWKx9KWkxYZUIeUENQDEsFA1BWThgJBABAHUBZCQUdRUFGGRJDD1MdQlUQQwVKDFRXFk8jQA4SBlQaWh0DGwVVH1gleVp0U246C3l3ZQ1GOUFmSn0xc1l%2Bch4LZRNbEAAVN1YaWxQLEg5UGVglMhIEZU01FQMTBlQaWhUGFDdVElMXChoFVhxZJQIWAVUeXBYBEg5UHlglBRIOZUAOewcbAFAbWhdXGgRdEg8lMhIGVBpaHQMbBVUfWCUBIjdlG2sWMlBpB0lbFQNFVFxOCUVRFwNSSAsQCkFXVh4IRwNGDwJPCEYyEAZUH1I%3D)
+- 天猫旗舰：[戳我加购](https://s.click.taobao.com/t?e=m%3D2%26s%3Dd1xR0N9%2BWOAcQipKwQzePOeEDrYVVa64K7Vc7tFgwiHjf2vlNIV67vr6CVbA4PsKPLNzIt%2Fz56jHBJrNyWy%2FUhtakJZDCFtXh7luXVktjzk0fMUMsi93u30PvODyjmBsbNt%2BQ9Mb0tem2vAytx9kdDVH79XYwd4F0a3u46RXbteREjEiL0p2TupL9cJfNfu1Jxjb73IzD5PV7RwejvrO8MYl7w3%2FA2kb&scm=null&pvid=null&app_pvid=59590_11.26.37.174_523_1571892668902&ptl=floorId:17741;originalFloorId:17741;app_pvid:59590_11.26.37.174_523_1571892668902&union_lens=lensId%3AOPT%401571892662%400b015dde_0e33_16dfc1a9291_6288%4001)
+- i7 4K版：9699元  [戳我加购](https://union-click.jd.com/jdc?e=&p=AyIGZRprFQMTBlQTWhwAEgVcKx9KWkxYZUIeUENQDEsFA1BWThgJBABAHUBZCQUdRUFGGRJDD1MdQlUQQwVKDFRXFk8jQA4SBlQaWh0DGwVVGVIleEVxLU0wYgt3BFJnBAsBa3IwUyJBch4LZRNbEAAVN1YaWxQLEg5UGVglMhIEZU01FQMTBlQaWhUGFDdVElMXChoFVhxZJQIWAVUeXBYBFgNSHlIlBRIOZUAOewcbAFAbWhdXGgRdEg8lMhIGVBpaHQMbBVUZUiUBIjdlG2sWMlBpUExcEQpFD1wTCUAAFwZRHQgSCkYHUktZEgtGVQBLD0cyEAZUH1I%3D)
+
+**华为 MateBookX Pro 2019款 第三方Linux版**
+
+![img](https://pic4.zhimg.com/v2-0d739f6d34e1d4adfca3d2c057cdadef_b.jpeg)
+
+重：1.33kg，厚：14.60mm，电池：57.4whr
+
+- 配置：i5-8265U、MX250、8G内存、512G SSD
+- 屏幕：13.9英寸3K、100%sRGB高色域
+- 优点：高色域3K屏幕、四边超窄边框、续航不错
+- 缺点：内存无法扩展
+- 参考价格：8699元  [戳我加购](https://union-click.jd.com/jdc?e=&p=AyIGZRprFQMTBlQSXh0DFgVcKx9KWkxYZUIeUENQDEsFA1BWThgJBABAHUBZCQUdRUFGGRJDD1MdQlUQQwVKDFRXFk8jQA4SBlQaWhwHGgZRGVIlQ0RuIkwnfgpwYE8bJhVyWgMeYDlrVB4LZRNbEAAVN1YaWxQLEg5UGVglMhIEZU01FQMTBlQaXhYGGjdVElMXChoFVhxZJQIWAVQSWhMHEgNUH1IlBRIOZUAOewcbAFAbWhdXGgRdEg8lMhIGVBpaHAcaBlEZUiUBIjdlG2sWMlBpXBpbEVEaDlIfUkEFFwBUSVJFVhUHBh9eQAoWUFVJDBAyEAZUH1I%3D)
+
+**戴尔 XPS15-7590 独显版**
+
+![img](https://pic1.zhimg.com/v2-8126c0e7f05e1ab81df520294f32bf70_b.png)
+
+重量：2.00kg，电池：97wh
+
+- 配置：i5-9300H、GTX1650、8G内存、1T SSD
+- 屏幕：15.6英寸1080P、72%NTSC高色域
+- 优点：16：10高色域宽屏、三边窄边框
+- 缺点：散热稍弱
+- 参考价格：12999元-13999元  [戳我加购](https://union-click.jd.com/jdc?e=&p=AyIGZRtYEQQaA10bXhIyEgZUGloSBhUBVR5aJUZNXwtEa0xHV0YXEEULWldTCQQHCllHGAdFBwtEQkQBBRxNVlQYBUkeTVxNCRNLGEF6RwtVGloUAxUDUh1bEAMiWwZPJ21feX02GQdAUEYPL0YBcBhmUVkXax0CFwVSK1gUAhMOVRJaFwEiN1UYa0NsEgZUGloUAxICVCtbHAoQD10ZWBIAIgdRHVoVChMOURxSEgIiAFUSa05XfAJcHF4VAxBSXRhTHFYiN1UaWhQDFQNSHVsQAyIEZStrFTIRNxd1WkIAFQZVHl8RUUZSUE9eE1JGUwJJU0EERwAFSFodURA3VxpaEQs%3D)
+
+**Apple Macbook Pro 15.4 2019**
+
+![img](https://pic2.zhimg.com/v2-dcecefc53ff4531a313afad9ac8950c9_b.png)
+
+重：1.83kg，厚：15.50mm
+
+- 配置：i9-9880H、Radeon Pro 560X、16G内存、512G SSD
+- 屏幕：15.4英寸准3K、P3广色域
+- 参考价格：19599元-20399元  [戳我加购](https://union-click.jd.com/jdc?e=&p=AyIGZRprFQMTBlQfUhEGFw5SKx9KWkxYZUIeUENQDEsFA1BWThgJBABAHUBZCQUdRUFGGRJDD1MdQlUQQwVKDFRXFk8jQA4SBlQaWhELFgNQElwlVmxyEG8fQwVwXAFTRW5pSHULYjlqch4LZRNbEAAVN1YaWxQLEg5UGVglMhIEZU01FQMTBlQaWhUBFDdVElMXChoFVhxZJQIWAF0TWhYKFgRRHlIlBRIOZUAOewcbAFAbWhdXGgRdEg8lMhIGVBpaEQsWA1ASXCUBIjdlG2sWMlBpABxYEFdAVVFPWhIEFwEGGAhBAhcOXBtaHAEUVVYcWkcyEAZUH1I%3D)
+
+------
+
+## **👉触控**本推荐
+
+**二合一**
+
+**联想 MIIX520**
+
+![img](https://pic2.zhimg.com/v2-ed616d1a2e10c2d11b45550eaa1e2ee1_b.png)
+
+裸重：0.88kg，厚度：9.90mm
+
+- 配置：i5-8250U 、8G内存、512G SSD
+- 屏幕：12.2英寸1200P、70%NTSC高色域
+- 参考价格：5799元-5999元  [戳我加购](https://union-click.jd.com/jdc?e=&p=AyIGZRprFQMTBlQbXRYLFAVXKx9KWkxYZUIeUENQDEsFA1BWThgJBABAHUBZCQUdRUFGGRJDD1MdQlUQQwVKDFRXFk8jQA4SBlQaWhUEEQ5TGVklB0VfFHo7TWZ3exVyM1d1EEAzHA0dRB4LZRprFgMSBlwbUhQAETdlG1wlVHwHVBpaFAMTB1EdaxQyEgNSElwWAhcOUhNTFjIVB1wrAEBsFw5SHlsUAEcPVhNSQTIiN1YrayUCIgRlWTUXBhdXABJYFlUXDgceD0ZRQgNTTgkSAUEPUB9dHAUVD2UZWhQGGw%3D%3D)
+
+**微软 Surface Pro 6**
+
+![img](https://pic4.zhimg.com/v2-28a106858940ad100926547851cb743f_b.png)
+
+裸重：0.77kg，厚度：8.50mm
+
+- 配置：i5-8250U、8G内存、256G SSD
+- 屏幕：12.3英寸准3K
+- 参考价格：8488元-8988元  
+- 京东自营：[戳我加购](https://union-click.jd.com/jdc?e=&p=AyIGZRprFQMTBlQbUxEFGw9XKx9KWkxYZUIeUENQDEsFA1BWThgJBABAHUBZCQUdRUFGGRJDD1MdQlUQQwVKDFRXFk8jQA4SBlQaWhUKFgBcE1klBEhEVFgnE2VyQFZIJ1VxdmdLTiwRVB4LZRprFgMSBlwbUhQAETdlG1wlVHwHVBpaFAMTBVYcaxQyEgNSElwWAhsAVxlYFzIVB1wrAEBsFw5SHlsUAEcPVhNSQTIiN1YrayUCIgRlWTUSB0dVABheQAIUDl0eCRBRG1cHS1MdA0UABxMLHFcaVWUZWhQGGw%3D%3D)
+- 天猫旗舰：[戳我加购](https://s.click.taobao.com/t?e=m%3D2%26s%3D4liNV5ORi%2BocQipKwQzePOeEDrYVVa64K7Vc7tFgwiHjf2vlNIV67q%2F0XfKi9tIgmSMhGfkQJ77HBJrNyWy%2FUhtakJZDCFtXh7luXVktjzk0fMUMsi93u30PvODyjmBsbNt%2BQ9Mb0tem2vAytx9kdNRUCUvi1akrws2nzltKVWv9Umq014SDkwvzM5HMQuXQuhb34EioRUgrs3X9oevdO3EqY%2Bakgpmw&scm=null&pvid=null&app_pvid=59590_11.26.37.192_512_1571654393529&ptl=floorId:17741;originalFloorId:17741;app_pvid:59590_11.26.37.192_512_1571654393529&union_lens=lensId%3AOPT%401571654387%400b1aef25_0e66_16dede6c548_72a6%4001)
+
+
+
+**翻转本**
+
+**惠普 Envy X360 13-ag0007AU**
+
+![img](https://pic1.zhimg.com/v2-29e8f492dd77eb1a20171d6a861c09ac_b.png)
+
+重：1.30kg，厚：14.90mm，电池：53whr
+
+- 配置：R5-2500U、8G内存、256G SSD
+- 屏幕：13.3英寸1080P、72%NTSC高色域
+- 优点：高色域屏幕、做工不错
+- 缺点：散热欠佳
+- 参考价格：4999元-5299元  [戳我加购](https://union-click.jd.com/jdc?e=&p=AyIGZRtbEAMVA1ASUxAyFAJRGl8SAiJDCkMFSjJLQhBaGR4cDF8QTwcKXg1cAAQJS14MQQVYDwtFSlMTBAtHR0pZChUdRUFGfwAXXRAGEwNSG2tdRnpPMk4tcGBzBC5fWmFkYng0ZQR1Dh43VCtYFAITDlUSWhcBIjdVHGtDbBIGVBpaFAMSA1ErWiUCFgBcHFgWAxoAVRhSJQUSDmVADnsHGwBQG1oXVxoEXRIPJTIiBGUraxUyETcXdQ9FVkEFAhJaRgYVAVAZU0BRFQRTHwgTAkJQVUxYEAdCN1caWhEL)
+
+**惠普 战X**
+
+![img](https://pic4.zhimg.com/v2-1263f96a5d4b64a4d7a368cb2b3ac1eb_b.png)
+
+重量：1.42kg，厚度：16.90mm
+
+- 配置：i5-8265U、8G内存、256G SSD
+- 屏幕：13.3英寸1080P、72%NTSC高色域
+- 参考价格：5999元-6299元  [戳我加购](https://union-click.jd.com/jdc?e=&p=AyIGZRtbEAMVA1ASUxAyEgZUGloXBRsBVBxbJUZNXwtEa0xHV0YXEEULWldTCQQHCllHGAdFBwtEQkQBBRxNVlQYBUkeTVxNCRNLGEF6RwtVGloUAxAAXB1aEgIidSdYJF1HW3kwGTl1WRMZIXkbVntPd1kXaxQyEQZVGlIVCxMFVitrFQUiUTsbWhQDEwZUG18RMhM3VR9cHAURBFYZWRUAFjdSG1IlWUdpUBJcEAITBQATWB0LRjdlK1glMiIHZRhrV2wbAVIdDBwCRVNcElgQVxIEBUlTQgQTAgUYCx0KFAYBEmsXAxMDXA%3D%3D)
+
+**联想 ThinkPad X390 Yoga**
+
+![img](https://pic2.zhimg.com/v2-2a2b4b87434a9ca5b889309c6c3e10dd_b.png)
+
+裸重：1.29kg，厚度：15.95mm
+
+- 配置：i5-8265U、8G内存、512G SSD
+- 屏幕：13.3英寸1080P
+- 优点：附带触控笔
+- 缺点：接口偏少
+- 参考价格：8499元  [戳我加购](https://union-click.jd.com/jdc?e=&p=AyIGZRprFQMTBlQfUx0DGwdcKx9KWkxYZUIeUENQDEsFA1BWThgJBABAHUBZCQUdRUFGGRJDD1MdQlUQQwVKDFRXFk8jQA4SBlQaWhEKGgZcG1IlZhNXA1k9S35yZFJdKRNrQWYQXDITYh4LZRNbEAAVN1YaWxQLEg5UGVglMhIEZU01FQMTBlQaWhUGGzdVElMXChoFVhxZJQIWAVQZXB0AFwVXHVMlBRIOZUAOewcbAFAbWhdXGgRdEg8lMhIGVBpaEQoaBlwbUiUBIjdlG2sWMlBpVhxaEgQaUFYbXUdRFwdVTlIXA0JQARkMHAFGAAUdWBIyEAZUH1I%3D)
+
+**联想 YOGA C940**
+
+![img](https://pic3.zhimg.com/v2-ab963539c45dc59487e6c2aaa4b5bd26_b.png)
+
+重：1.35kg，厚：14.20mm，电池：60whr
+
+- 配置：i5-1035G4、16G内存、512G SSD
+- 屏幕：14英寸4K、90%DCI-P3广色域
+- 优点：高色域4K屏幕、附带触控笔
+- 缺点：接口偏少
+- 参考价格：8999元-9999元  
+- 京东自营：[戳我加购](https://union-click.jd.com/jdc?e=&p=AyIGZRprFQMTBlQdXB0AEQ9cKx9KWkxYZUIeUENQDEsFA1BWThgJBABAHUBZCQUdRUFGGRJDD1MdQlUQQwVKDFRXFk8jQA4SBlQaWhMFGgVWE1IlWlZkVF4%2BbVZyBh0FMkd%2FCAI8ZAd0Yh4LZRNbEAAVN1YaWxQLEg5UGVglMhIEZU01FQMTBlQaWhUGFDdVElMXChoFVhxZJQIWAVQbXxELFg9VE1klBRIOZUAOewcbAFAbWhdXGgRdEg8lMhIGVBpaEwUaBVYTUiUBIjdlG2sWMlBpUhhbRQIWBFNJCRxQFwcAHAhCVxIOXRtYElcQAAceCBMyEAZUH1I%3D)
+- 天猫旗舰：[戳我加购](https://s.click.taobao.com/t?e=m%3D2%26s%3D6Y6kSdQeT68cQipKwQzePOeEDrYVVa64K7Vc7tFgwiHjf2vlNIV67vQ875HMg2K%2BIfNVgZHErC7HBJrNyWy%2FUhtakJZDCFtXh7luXVktjzk0fMUMsi93u30PvODyjmBsbNt%2BQ9Mb0tem2vAytx9kdDVH79XYwd4F0a3u46RXbteREjEiL0p2TupL9cJfNfu110hBUu2ziadBlGzF09nrNMYl7w3%2FA2kb&scm=null&pvid=null&app_pvid=59590_11.21.12.113_464_1571630561508&ptl=floorId:17741;originalFloorId:17741;app_pvid:59590_11.21.12.113_464_1571630561508&union_lens=lensId%3AOPT%401571630556%400b588c59_0e96_16dec7b24c7_79f6%4001)
+
+------
+
+以上就是大学生笔记本电脑推荐清单的全部内容，谢谢你的耐心阅读。本清单后期会持续更新，点“**收藏**”，下次你想看的时候就可以马上找到啦！
+
+ 👇点“**赞同**”鼓励一下呗~
